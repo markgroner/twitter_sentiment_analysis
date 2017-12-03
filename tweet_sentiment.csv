@@ -1,0 +1,619 @@
+outlet,tweets_ago,text,date,compound,positive,neutral,negative
+BBC,0,Pledge to boost mental health support in schools https://t.co/A6nh8MSICF,Sun Dec 03 00:53:43 +0000 2017,0.6597,0.435,0.565,0.0
+BBC,-1,Social mobility board quits over lack of progress https://t.co/l6T4k3CAEn,Sat Dec 02 22:55:32 +0000 2017,0.128,0.231,0.579,0.19
+BBC,-2,Dalston bus ticket clash: Eight police officers injured https://t.co/IDBFyBXpzU,Sat Dec 02 19:03:17 +0000 2017,-0.4019,0.0,0.748,0.252
+BBC,-3,Children's commissioner may consider legal action over Universal Credit https://t.co/VBUgrOVaBF,Sat Dec 02 18:53:04 +0000 2017,0.4767,0.339,0.661,0.0
+BBC,-4,"RT @BBCSport: Half an hour gone.
+
+Arsenal 0-2 Man Utd.
+
+Live? https://t.co/KcWELiLlbu #ARSMUN https://t.co/52HL2bn4nW",Sat Dec 02 18:01:06 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-5,"RT @bbcweather: Heading out this #SaturdayNight? It'll be generally cloudy, with a little patchy #rain for some. Ben R https://t.co/eCyp8BY…",Sat Dec 02 17:53:21 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-6,RT @BBCNewsbeat: The family of 14-year-old Samuel Berkley say they are 'heartbroken' about his death  https://t.co/uwkibpisVX https://t.co/…,Sat Dec 02 17:28:39 +0000 2017,-0.5994,0.0,0.804,0.196
+BBC,-7,RT @BBCSport: What a story for Hereford FC - they'll be in the #FACup third round draw https://t.co/QWHazTLw0a https://t.co/bzxXGK2a1C,Sat Dec 02 17:02:29 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-8,RT @BBCNewsbeat: Tangled tinsel and wonky trees: feast your eyes on the UK's dodgy Christmas displays https://t.co/HLVfpYXFIV https://t.co/…,Sat Dec 02 16:55:38 +0000 2017,-0.2263,0.0,0.899,0.101
+BBC,-9,"RT @BBCSport: Wales survived a remarkable comeback to end their autumn series with a nail-biting win over South Africa.
+
+? https://t.co/pXf…",Sat Dec 02 16:48:36 +0000 2017,0.8934,0.416,0.584,0.0
+BBC,-10,"RT @BBCSport: Here are the half-time Premier League scores. How's your team getting on?
+https://t.co/CZVS9P2SMe #bbcfootball https://t.co/U…",Sat Dec 02 15:57:36 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-11,RT @BBCNewsbeat: Motorway Martin: PC single-handedly stops van from falling off bridge https://t.co/TREilMlB8z https://t.co/19YLSTXTNO,Sat Dec 02 15:29:08 +0000 2017,-0.296,0.0,0.789,0.211
+BBC,-12,Barclays axes free Kaspersky product as a 'precaution' https://t.co/hM5VoCy35a,Sat Dec 02 15:02:01 +0000 2017,0.5106,0.32,0.68,0.0
+BBC,-13,Whirlpool tumble dryers: MPs' anger as replacement ends https://t.co/DVZGbXlHPr,Sat Dec 02 14:28:13 +0000 2017,-0.5719,0.0,0.684,0.316
+BBC,-14,Chief vet defends support of larger hen cages https://t.co/d1PJYfW4ig,Sat Dec 02 14:03:52 +0000 2017,0.4019,0.252,0.748,0.0
+BBC,-15,RT @BBCScienceNews: Migraine is 'not just a headache' https://t.co/GjoF5Q29Qh,Sat Dec 02 13:57:30 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-16,Motorway PC stops lorry from falling off bridge https://t.co/eoRnM2sCA1,Sat Dec 02 12:40:53 +0000 2017,-0.296,0.0,0.686,0.314
+BBC,-17,RT @bbcstories: Errol’s a mechanic and prostate cancer survivor. Now he’s dedicated to getting as many other men diagnosed as he can. What…,Sat Dec 02 12:40:52 +0000 2017,0.0258,0.19,0.657,0.152
+BBC,-18,"Boy, 14, dies after being hit on M67 in Hyde https://t.co/zLciXH4tvM",Sat Dec 02 12:23:57 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-19,Ashes: Australia on top after day one of second Test in Adelaide https://t.co/n1IoUJJcVi,Sat Dec 02 12:03:23 +0000 2017,0.2023,0.13,0.87,0.0
+BBC,-20,"RT @5liveSport: That's close of play for Day 1 at Adelaide. 
+
+Australia are 209-4. Get all the reaction from @Aggerscricket and @philtufnel…",Sat Dec 02 11:54:26 +0000 2017,0.34,0.107,0.893,0.0
+BBC,-21,RT @Moneybox: Do we still need cash machines? Some fear the numbers of ATMs could plummet over the next few years. We'll be discussing on M…,Sat Dec 02 11:40:36 +0000 2017,-0.4939,0.0,0.887,0.113
+BBC,-22,"RT @BBCBusiness: What do unicorns, zebras, sharks and bees have to do with your money? Explore our full A-Z Business Beasts guide here: htt…",Sat Dec 02 11:31:35 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-23,New heart for eight-week-old Charlie Douthwaite https://t.co/LY2qmXZiKl,Sat Dec 02 11:02:15 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-24,Rugby League World Cup: Australia edge out England to retain trophy https://t.co/qeNcrUUzSv,Sat Dec 02 11:02:15 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-25,"RT @BBCSport: Australia have beaten England to win the #RLWC2017. 
+
+? https://t.co/EwfAqAMrNc #bbcrl https://t.co/pl1rVA7gIx",Sat Dec 02 10:53:36 +0000 2017,0.25,0.216,0.625,0.159
+BBC,-26,"RT @BBCSport: WHAT A GAME THIS IS! ? 
+
+10 minutes to go and it could still go either way.
+
+Latest: Australia 6-0 England
+
+Live ? https://t.…",Sat Dec 02 10:41:12 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-27,"RT @BBCSport: One thing Australia have done really well in this tournament is be patient, they're continuing with that theme in the #RLWC20…",Sat Dec 02 10:19:18 +0000 2017,0.3384,0.098,0.902,0.0
+BBC,-28,"RT @bbctms: WICKET!
+
+Overton takes his first Test wicket and it's Australian captain Steve Smith.
+
+#Ashes
+#bbccricket 
+
+Live text &amp; @bbctms…",Sat Dec 02 10:19:06 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-29,Car hits pedestrians after Brixton 'altercation' https://t.co/OVUOMYqn15,Sat Dec 02 10:14:46 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-30,"RT @BBCSport: The errors proved costly for @England_RL in the first half. 
+
+Live ? https://t.co/EwfAqAMrNc #bbcrl #RLWC2017 #bbcrl https://…",Sat Dec 02 09:57:33 +0000 2017,-0.4215,0.0,0.808,0.192
+BBC,-31,"RT @BBCSport: England will be missing captain Sean O'Loughlin... but they always have Sam Burgess. 
+
+Follow the #RLWC2017 final live on @BB…",Sat Dec 02 08:56:42 +0000 2017,-0.1531,0.0,0.929,0.071
+BBC,-32,David Cameron: We 'didn't solve' dementia cost challenge https://t.co/r5VXe0eut4,Sat Dec 02 08:42:22 +0000 2017,-0.0752,0.131,0.708,0.161
+BBC,-33,"RT @BBCSteveR: Nizhny Novgorod, where England will play Panama in the World Cup, used to be closed to foreigners. What can visiting fans ex…",Sat Dec 02 08:38:13 +0000 2017,0.34,0.094,0.906,0.0
+BBC,-34,"RT @BBCSport: If you're just waking up how about #Ashes with your breakfast
+
+#bbcricket
+
+? Live text &amp; @bbctms : https://t.co/GvwGalXjwe ht…",Sat Dec 02 08:18:36 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-35,"RT @BBCBusiness: It's a jungle out there in the finance world and we're on a safari. Over the next month, we'll be posting our A-Z of Busin…",Sat Dec 02 08:02:35 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-36,New archbishop wants to 'refresh' Church in Wales https://t.co/5y5xr6klgf,Sat Dec 02 07:04:42 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-37,Newark: Culture focus to change 'worst town to be poor' label https://t.co/W2MIqL4396,Sat Dec 02 05:40:17 +0000 2017,-0.802,0.0,0.581,0.419
+BBC,-38,Damian Green porn claims 'flagrant police breach' https://t.co/gAgB8UyH3x,Sat Dec 02 04:52:33 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-39,Murderer William Kerr arrested after absconding from prison https://t.co/Jd0x6rbl5c,Sat Dec 02 02:36:05 +0000 2017,-0.9001,0.0,0.353,0.647
+BBC,-40,Five Northampton cat deaths linked to 'Croydon cat killer' probe https://t.co/0HG27KdQMD,Sat Dec 02 02:22:06 +0000 2017,-0.6486,0.0,0.699,0.301
+BBC,-41,Murderer William Kerr absconds from HMP Hollesley Bay https://t.co/4fREPvM2Kr,Sat Dec 02 01:20:51 +0000 2017,-0.6808,0.0,0.635,0.365
+BBC,-42,My brain 'exploded' after kick in the head https://t.co/i4VSEqGRxL,Sat Dec 02 01:05:54 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-43,Pupils' diaries convict Hampshire sex assault teacher https://t.co/VNcF6cDJcY,Sat Dec 02 01:05:54 +0000 2017,-0.5859,0.0,0.648,0.352
+BBC,-44,Minister calls for minimum banking services guarantee https://t.co/FOd505qJDU,Sat Dec 02 01:02:22 +0000 2017,0.25,0.222,0.778,0.0
+BBC,-45,How much of your salary is spent on rent? https://t.co/Be73VnTgOH,Fri Dec 01 23:54:29 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-46,Woman arrested after toddler found alone in Wigan https://t.co/FYaIq5uTX8,Fri Dec 01 23:50:33 +0000 2017,-0.6249,0.0,0.579,0.421
+BBC,-47,"Saturday's Times: ""Cabinet split over Green after police porn claims"" #tomorrowspaperstoday #BBCpapers (via… https://t.co/AlosgmD4Xy",Fri Dec 01 22:34:03 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-48,"Saturday's Daily Star: ""Murder on the dancefloor"" #tomorrowspaperstoday #BBCpapers (via @hendopolis) https://t.co/KCpP3eOKrT",Fri Dec 01 22:14:59 +0000 2017,-0.6908,0.0,0.701,0.299
+BBC,-49,"Saturday's Daily Telegraph: ""Trump aide turns informer in Russia case"" #tomorrowspaperstoday #BBCpapers (via… https://t.co/tO6AJTr0p0",Fri Dec 01 22:14:54 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-50,"Saturday's Sun: ""Mega star!"" #tomorrowspaperstoday #BBCpapers (via @hendopolis) https://t.co/Pso8PxvKmW",Fri Dec 01 22:14:54 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-51,"Saturday's Daily Mirror: ""The minister for porn"" #tomorrowspaperstoday #BBCpapers (via @hendopolis) https://t.co/tspV9KaKMQ",Fri Dec 01 22:14:49 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-52,Kaspersky Labs: Warning over Russian anti-virus software https://t.co/G1t6ShDKYD,Fri Dec 01 22:10:39 +0000 2017,-0.34,0.0,0.745,0.255
+BBC,-53,RT @BBCSport: ?? “The World Cup draw: a very English reaction” https://t.co/iYCNNnUo2K,Fri Dec 01 22:01:08 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-54,"RT @BBCSport: FT AFC Fylde 1-1 Wigan
+
+Both teams are still in the hat and in with a chance of landing a draw against the big boys in the th…",Fri Dec 01 22:00:47 +0000 2017,0.25,0.069,0.931,0.0
+BBC,-55,"RT @BBCSportWales: FT: #CardiffCity 3-1 Norwich 
+
+The Bluebirds close the gap to leaders Wolverhampton Wanderers to just a point thanks to…",Fri Dec 01 22:00:43 +0000 2017,0.4404,0.132,0.868,0.0
+BBC,-56,"RT @BBCSport: FT Leeds 1-1 Aston Villa 
+
+Henri Lansbury earns #AVFC a point against #LUFC in an even game at Elland Road https://t.co/xYzkq…",Fri Dec 01 22:00:37 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-57,"Saturday's Daily Mail: ""Tories at war with the police"" #tomorrowspaperstoday #BBCpapers (via @hendopolis) https://t.co/CHBtQEuIsx",Fri Dec 01 21:52:28 +0000 2017,-0.5994,0.0,0.769,0.231
+BBC,-58,"Saturday's i weekend: ""Davis threat to quit if deputy PM is fired over porn"" #tomorrowspaperstoday #BBCpapers (via… https://t.co/Pl2D7PPP5s",Fri Dec 01 21:52:24 +0000 2017,-0.7906,0.0,0.682,0.318
+BBC,-59,"Saturday's Financial Times Weekend: ""Flynn pleads guilty to lying over Russian ties"" #tomorrowspaperstoday… https://t.co/VcLETDikrA",Fri Dec 01 21:52:22 +0000 2017,-0.7351,0.0,0.659,0.341
+BBC,-60,Prince Harry and Meghan Markle complete first joint public engagement since... their engagement… https://t.co/2Ohm4KHBSL,Fri Dec 01 20:57:57 +0000 2017,0.4588,0.188,0.812,0.0
+BBC,-61,Toys R Us prepares to shut 25 stores https://t.co/merUbSymON,Fri Dec 01 20:57:27 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-62,RT @bbcweather: What's the #weekend got in store? The forecast for the next 48 hours squeezed into 60 seconds. Get your local detail here h…,Fri Dec 01 20:53:53 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-63,"RT @BBCSteveR: Want to know more about Volgograd, where England play their opening World Cup match next June? It has one of the world's tal…",Fri Dec 01 20:06:23 +0000 2017,0.4019,0.139,0.861,0.0
+BBC,-64,"RT @BBC_HaveYourSay: ""I will have a 70-mile round trip now"" - the lengths people say they'll have to go to with bank branch closures on the…",Fri Dec 01 20:05:53 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-65,'Suicide pact' trial: Natasha Gordon found guilty https://t.co/SNUs60mMRt,Fri Dec 01 20:02:31 +0000 2017,-0.8074,0.0,0.451,0.549
+BBC,-66,"RT @BBCWorld: Artist rescued after not-so-great 'escape'
+
+https://t.co/cKQrURtq69 https://t.co/RvVwXigmkY",Fri Dec 01 19:31:53 +0000 2017,0.4215,0.259,0.741,0.0
+BBC,-67,RT @BBCBusiness: RBS is closing branches. Is your nearest one under threat? https://t.co/qvmDLB6f0W https://t.co/t1AYd5l92u,Fri Dec 01 18:37:43 +0000 2017,-0.5267,0.0,0.793,0.207
+BBC,-68,Supermarkets 'raise the price of Christmas biscuits' https://t.co/QmYmXwu7wQ,Fri Dec 01 17:49:56 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-69,"Any UK offer to deal with Irish border after #Brexit must be acceptable to Ireland, EU's Donald Tusk says… https://t.co/u4QkhRddYq",Fri Dec 01 17:29:17 +0000 2017,0.3182,0.108,0.892,0.0
+BBC,-70,Brexit offer 'must be acceptable to Ireland' https://t.co/GZV3URQgd4,Fri Dec 01 17:27:37 +0000 2017,0.3182,0.247,0.753,0.0
+BBC,-71,"Irish PM says he's prepared to ""stand firm"" with EU partners if UK offer ""falls short"" on key #Brexit issues – incl… https://t.co/2S9QEcTg29",Fri Dec 01 17:15:34 +0000 2017,0.2263,0.083,0.917,0.0
+BBC,-72,SNP MP rebuked for calling Lords 'ermine vermin' https://t.co/orzcbYNMsP,Fri Dec 01 16:52:11 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-73,RT @bbclaurak: Apparently in fact the PM herself does NOT have the final Green report,Fri Dec 01 16:49:53 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-74,"RT @BBCSport: Fixtures ?
+Times ?
+Place ?
+
+Plan your 2018 Fifa #WorldCup here ? https://t.co/ZP8c002zey #WorldCupDraw #bbcfootball https://t…",Fri Dec 01 16:31:25 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-75,RT @bbclaurak: Damian Green now heading back to constituency - understand he has not seen contents of report but the PM now has it - source…,Fri Dec 01 16:31:01 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-76,"World Cup draw: England play Belgium, Panama and Tunisia in Group G https://t.co/fCHlqcnS8d",Fri Dec 01 16:15:29 +0000 2017,0.34,0.179,0.821,0.0
+BBC,-77,"RT @BBCSport: Here it is - the 2018 Fifa #WorldCupDraw in full.
+
+Live reaction ? https://t.co/XhMcEMjVJd
+
+#bbcfootball https://t.co/0VuT9eD…",Fri Dec 01 16:14:25 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-78,"RT @BBCSport: Here's how Group G looks for the 2018 Fifa World Cup.
+
+Live reaction ? https://t.co/XhMcEMjVJd #WorldCupDraw #bbcfootball htt…",Fri Dec 01 16:03:34 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-79,"RT @BBCSport: Group G
+
+?? Belgium
+??????? England
+
+Follow live:
+
+? @BBCTwo
+? @bbc5live
+? https://t.co/XhMcEMjVJd
+
+#WorldCupDraw #bbcfootball",Fri Dec 01 15:43:39 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-80,"RT @BBC_HaveYourSay: ""I can't stop laughing...this is making fun of our intelligence.""
+https://t.co/7wbOXilh34",Fri Dec 01 15:43:11 +0000 2017,0.6355,0.32,0.68,0.0
+BBC,-81,"RT @BBCSport: The 2018 Fifa #WorldCupDraw is moments away ??
+
+Follow live coverage ? https://t.co/XhMcEMjVJd
+
+Tweet us #bbcfootball https:/…",Fri Dec 01 15:27:37 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-82,"Derby Christmas tree 'exclusion zone' was 'over cautious', council says https://t.co/YbNQiAbICt",Fri Dec 01 15:26:50 +0000 2017,-0.296,0.0,0.82,0.18
+BBC,-83,"RT @BBCSport: HERE.
+WE.
+GO!
+
+We're live on @BBCTwo for the #WorldCupDraw!
+
+Watch ? https://t.co/XhMcEMjVJd https://t.co/xAHVpUO9ca",Fri Dec 01 15:01:29 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-84,"RT @bbclaurak: That could mean nothing, or it could mean everything",Fri Dec 01 15:00:24 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-85,"RT @bbclaurak: After allegations this morning and David Davis’ extraordinary intervention, hearing Damian Green is back in Westminster from…",Fri Dec 01 15:00:10 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-86,"RT @BBCSport: The stars are arriving at the Kremlin for the #WorldCupDraw!
+
+Our #bbcfootball live page is under way ?https://t.co/XhMcEMjVJ…",Fri Dec 01 14:49:10 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-87,RT @BBCBreaking: Trump's ex-national security adviser Michael Flynn charged with making false statement to FBI in January https://t.co/Zw6t…,Fri Dec 01 14:23:06 +0000 2017,0.1531,0.119,0.792,0.089
+BBC,-88,RT @bbcweather: Plans for the #weekend? Here's how the weather's looking. Jo https://t.co/iKWJahdKmb,Fri Dec 01 14:09:53 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-89,"RT @BBCSport: Pep Guardiola has been asked by the FA to explain his animated post-match discussion with Southampton's Nathan Redmond.
+
+Read…",Fri Dec 01 14:09:23 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-90,"RT @bbctms: Here are your timings for tomorrow's day/night Test @TheAdelaideOval. 
+
+On air for Toss at 3am. 
+First ball 3.30
+Tea 5.30
+Dinne…",Fri Dec 01 13:55:18 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-91,David Davis 'warns No 10 not to sack Damian Green' https://t.co/67YkIfSwDS,Fri Dec 01 13:34:27 +0000 2017,-0.3818,0.0,0.714,0.286
+BBC,-92,"RT @BBCSport: Remember the chaos &amp; confusion at the 1982 #WorldCupDraw?
+
+Hopefully none of this today!
+
+Watch: https://t.co/VJvFO6J06M http…",Fri Dec 01 13:22:19 +0000 2017,-0.5411,0.108,0.643,0.249
+BBC,-93,"RT @BBCSport: Three cities have joined Birmingham to contest the right to host the 2022 Commonwealth Games.
+
+Read more: https://t.co/KVtwy0…",Fri Dec 01 13:08:02 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-94,London Olympic Stadium taken over by mayor Sadiq Khan https://t.co/s6OK85DGMa,Fri Dec 01 13:00:57 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-95,RT @BBC_HaveYourSay: #AskWoody - did the US ambassador's Twitter Q&amp;A get sidetracked by Trump? https://t.co/pi4m0PECqp,Fri Dec 01 12:57:56 +0000 2017,0.0,0.0,1.0,0.0
+BBC,-96,"RT @BBCWorld: Hesitant Europeans - 36%
+Contented Europeans - 23%
+EU Rejecters - 14%
+Frustrated Pro-Europeans - 9%
+Austerity Rebels - 9%
+Fed…",Fri Dec 01 12:33:03 +0000 2017,-0.765,0.094,0.512,0.394
+BBC,-97,Carl Sargeant funeral taking place in Connah's Quay https://t.co/5fpD12NhvA,Fri Dec 01 12:11:37 +0000 2017,-0.3612,0.0,0.762,0.238
+BBC,-98,David Dearlove found guilty of 1968 Paul Booth murder https://t.co/53SUalSqRp,Fri Dec 01 12:11:37 +0000 2017,-0.8176,0.0,0.516,0.484
+BBC,-99,RT @BBCDanielS: Damian Green's response today https://t.co/02ImPFqrIH,Fri Dec 01 11:54:14 +0000 2017,0.0,0.0,1.0,0.0
+CBS,0,Stream Indiana at Michigan LIVE today at 12:30PM ET with a 1-month FREE trial of #CBSAllAccess. Just use promo code… https://t.co/xRem3zSyEQ,Sat Dec 02 15:55:39 +0000 2017,0.6166,0.175,0.825,0.0
+CBS,-1,Kristin Chenoweth (@KChenoweth) explains why audiences still crave Carol Burnett! Don't miss The Carol Burnett 50th… https://t.co/kM92NTtTfs,Sat Dec 02 14:30:03 +0000 2017,0.1867,0.098,0.902,0.0
+CBS,-2,"Catch up on this amazing lineup of music specials! Here's how to watch Bruno Mars: 24K Magic Live at the Apollo, Th… https://t.co/Jit2CzZJCY",Sat Dec 02 13:00:07 +0000 2017,0.6996,0.179,0.821,0.0
+CBS,-3,Missed Bruno Mars: 24K Magic Live at the Apollo? Keep up! Watch the full show: https://t.co/itXpGB5gRm #BrunoMars https://t.co/8yyQlC1LML,Sat Dec 02 12:00:03 +0000 2017,-0.3595,0.0,0.872,0.128
+CBS,-4,Reminisce with these classic photos and get ready to relive the magic when The Carol Burnett 50th Anniversary Speci… https://t.co/yJQEzCjoSA,Fri Dec 01 22:43:05 +0000 2017,0.3612,0.116,0.884,0.0
+CBS,-5,"RT @LivinBiblically: In the beginning, there was Chip. And lo! Chip had a revelation. #LivingBiblically is a new comedy premiering Monday,…",Fri Dec 01 22:15:28 +0000 2017,0.4199,0.134,0.866,0.0
+CBS,-6,"Discover these pro football stars' off-the-field talents in MVP: Most Valuable Performer, airing Jan 25 on CBS! Fin… https://t.co/g8jSRW8mQf",Fri Dec 01 21:00:12 +0000 2017,0.7707,0.282,0.718,0.0
+CBS,-7,"Find out when #BigBrother celebrity edition, #AmazingRace, #Survivor, new drama @instinctcbs and new comedy… https://t.co/4Psl74zcCB",Fri Dec 01 20:17:18 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-8,Actress @BethBehrs explains why Carol Burnett is her hero! Celebrate her lasting influence with The Carol Burnett 5… https://t.co/Lnt5P9jEu0,Fri Dec 01 19:32:18 +0000 2017,0.8221,0.309,0.691,0.0
+CBS,-9,"RT @instinctcbs: New drama #Instinct, starring @Alancumming, premieres Sunday, March 11 on @CBS! https://t.co/aaL0JXpqav",Fri Dec 01 18:40:34 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-10,"RT @AmazingRaceCBS: On your marks... #AmazingRace returns Wednesday, January 3! https://t.co/XMSJSUymUZ",Fri Dec 01 18:16:37 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-11,RT @CBSBigBrother: Mark. Your. Calendars. The celebrity edition of #BigBrother premieres February 7! https://t.co/nP3Do6jTwM,Fri Dec 01 18:10:11 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-12,The Angels await you... catch up on the world's most celebrated fashion show now! Watch the full 2017… https://t.co/xfYDbEzpfX,Fri Dec 01 14:00:04 +0000 2017,0.6893,0.251,0.749,0.0
+CBS,-13,"Comedy stars Amy Poehler, Bill Hader, @MayaRudolph &amp; @TraceeEllisRoss give the legendary Tarzan yell a try- but no… https://t.co/lrrHE2f9Nv",Fri Dec 01 12:00:03 +0000 2017,0.1901,0.093,0.907,0.0
+CBS,-14,Action-adventure series 'Blood &amp; Treasure' has been picked up for broadcast in Summer 2019: https://t.co/gAjqbF5bYh https://t.co/3cTBH9AKFI,Fri Dec 01 01:31:30 +0000 2017,0.296,0.128,0.872,0.0
+CBS,-15,Carol Burnett visited @TheTalkCBS to discuss how she got her start in show business! Watch The Carol Burnett 50th A… https://t.co/EyqmFWZHEC,Thu Nov 30 21:10:19 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-16,"The world's most beloved fairy tales are reimagined as a dark &amp; twisted psychological thriller in ""Tell Me A Story,… https://t.co/CytIswrRj1",Thu Nov 30 20:54:39 +0000 2017,0.6115,0.227,0.773,0.0
+CBS,-17,RT @RansomCBS: #Ransom star @luke_j_roberts on set in Budapest for Season 2! https://t.co/rgC5ylqSMp,Thu Nov 30 17:40:02 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-18,Comic @JayLeno reflects on the major impression Carol Burnett left on him. Celebrate The Carol Burnett 50th Anniver… https://t.co/PIakndHJt1,Thu Nov 30 17:30:05 +0000 2017,0.6808,0.248,0.752,0.0
+CBS,-19,"Watch #BrunoMars perform ""That's What I Like"" in Bruno Mars: 24K Magic Live at the Apollo: https://t.co/hAFcB9HpE3 https://t.co/I7ZWHdDYCP",Thu Nov 30 15:00:05 +0000 2017,0.3612,0.135,0.865,0.0
+CBS,-20,"Watch #BrunoMars perform ""24K Magic"" in Bruno Mars: 24K Magic Live at the Apollo: https://t.co/UgD4fC5cS6 https://t.co/iTGKJSbjwY",Thu Nov 30 12:00:03 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-21,Missed Bruno Mars: 24K Magic Live at the Apollo Theater? Keep up! Watch the full show: https://t.co/itXpGB5gRm… https://t.co/nkRMIUd2Df,Thu Nov 30 07:52:09 +0000 2017,-0.3595,0.0,0.872,0.128
+CBS,-22,RT @CWatkinsTV: That. Was. Amazing! #BrunoMars,Thu Nov 30 04:09:55 +0000 2017,0.6239,0.45,0.55,0.0
+CBS,-23,The stage is ?? #BrunoMars https://t.co/nykrDH46Bs,Thu Nov 30 04:00:27 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-24,RT @anitakearney65: I could watch this all night #Brunomars #BrunosTvSpecial so much fun to watch OMG,Thu Nov 30 03:59:09 +0000 2017,0.5542,0.204,0.796,0.0
+CBS,-25,Everybody put your hands up! #BrunoMars https://t.co/jU7NyttAqv,Thu Nov 30 03:55:37 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-26,RT @Sara_nurse: My 2yr old niece heard @BrunoMars and is now up singing and dancing #BrunosTVSpecial #BrunoMars,Thu Nov 30 03:51:38 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-27,"RT @AllieNY86: His voice is mesmerizing 
+#BrunoMars",Thu Nov 30 03:44:54 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-28,RT @BrunoMars: We love you MARY!!!! ?? #BrunosTvSpecial,Thu Nov 30 03:37:13 +0000 2017,0.7482,0.434,0.566,0.0
+CBS,-29,RT @RDMichelleLNK: Loving a dose of #BrunoMars midweek. So amazing!,Thu Nov 30 03:35:13 +0000 2017,0.8513,0.542,0.458,0.0
+CBS,-30,We’re only halfway into the show. Get ready for more of your favorite #BrunoMars tunes! https://t.co/BJh0PeX864,Thu Nov 30 03:33:32 +0000 2017,0.7232,0.302,0.698,0.0
+CBS,-31,"When #BrunoMars tells you to pick up the phone, that’s exactly what you do. https://t.co/JZDS26h3lL",Thu Nov 30 03:23:03 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-32,RT @MargoSlade: Best way to relax after a hard day of work watching #BrunoMars on #BrunosTVSpecial my heart is the happiest,Thu Nov 30 03:11:31 +0000 2017,0.8979,0.394,0.557,0.049
+CBS,-33,RT @Tiffany48184: Now that's how you open up a show!!!!! #BrunoMars,Thu Nov 30 03:09:54 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-34,RT if you’re ready to party with #BrunoMars!! https://t.co/o4qQoKOzgH,Thu Nov 30 03:07:20 +0000 2017,0.6988,0.452,0.548,0.0
+CBS,-35,RT @BrunoMars: POP POP!!?? everyone tweet #BrunosTvSpecial! We on!!!! ?,Thu Nov 30 03:06:38 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-36,RT @Queentassia14: Bruno Mars Live at the Apollo!!!! Yeah I have to wake up at like 4 am for work.... but it's worth it. #BrunoMars #Brunos…,Thu Nov 30 03:03:15 +0000 2017,0.7067,0.246,0.754,0.0
+CBS,-37,RT @asbstar30: BRUNO #BrunoMars,Thu Nov 30 03:02:34 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-38,"Get on your feet, and prepare to dance. #BrunoMars is hitting the stage! https://t.co/yOyq8JlMZj",Thu Nov 30 02:59:59 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-39,"Pop pop, it's showtime! Bruno Mars: 24K Magic Live at the Apollo starts at 10/9c on CBS, or try 1 month FREE of CBS… https://t.co/cpCSYDKieM",Thu Nov 30 02:45:03 +0000 2017,0.6514,0.158,0.842,0.0
+CBS,-40,Calling all Bruno Mars' lovelies... don't miss Bruno Mars: 24K Magic Live at the Apollo tonight @ 10/9c on CBS &amp; CB… https://t.co/nGOgukLMx9,Thu Nov 30 00:06:05 +0000 2017,0.1139,0.064,0.936,0.0
+CBS,-41,You'll treasure this special night with #BrunoMars! Find out how to watch Bruno Mars: 24K Magic Live at the Apollo… https://t.co/qF2eRcJLSJ,Wed Nov 29 23:20:13 +0000 2017,0.6825,0.228,0.772,0.0
+CBS,-42,RT @BrunoMars: Ladies put your hoops on tonight! Fellas break out that good cologne! #BrunosTvSpecial is airing on @CBS! What y’all trynna…,Wed Nov 29 23:15:24 +0000 2017,0.5826,0.152,0.848,0.0
+CBS,-43,RT @YoungSheldon: Sheldon will do whatever it takes to get his hands on his own computer in tomorrow's all-new episode of #YoungSheldon! ht…,Wed Nov 29 23:14:57 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-44,RT @survivorcbs: What drama will ensue on back-to-back episodes of #Survivor tonight? Watch a sneak peek now: https://t.co/LHcxyClSw1 https…,Wed Nov 29 23:13:40 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-45,Discover every reason why #BrunoMars is 24K Magic! Watch Bruno Mars: 24K Magic Live at the Apollo tonight @ 10/9c o… https://t.co/oaPjvl3rSW,Wed Nov 29 22:34:56 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-46,Did you catch these tiny moments during the 2017 Victoria's Secret Fashion Show? Find out what you may have missed:… https://t.co/IIyupot9uU,Wed Nov 29 21:07:33 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-47,RT @funnyordie: Live! Watch Tim Meadows and Patrick Brammall of @NoActivityCBS play themselves in new 8-bit video game! https://t.co/nXCuHO…,Wed Nov 29 20:41:13 +0000 2017,0.4559,0.142,0.858,0.0
+CBS,-48,The 'Only Angel' @Harry_Styles saw last night were the ones on the runway! Watch him perform at the #VSFashionShow:… https://t.co/na8GAiZwmS,Wed Nov 29 15:00:07 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-49,This entire collection is drop-dead gorgeous. See all the most sizzling looks from the 2017 #VSFashionShow:… https://t.co/zpTKXcm05r,Wed Nov 29 12:00:06 +0000 2017,0.6124,0.2,0.8,0.0
+CBS,-50,"Stars @Miguel, @Harry_Styles, @leslieodomjr &amp; more set the tone for a truly incredible show! Watch all the musical… https://t.co/kmo4l3aGai",Wed Nov 29 09:09:48 +0000 2017,0.4926,0.158,0.842,0.0
+CBS,-51,Some of the best moments happen behind the scenes! Here's your backstage pass to the 2017 Victoria's Secret Fashion… https://t.co/S8MpOnhC6b,Wed Nov 29 08:39:05 +0000 2017,0.6696,0.191,0.809,0.0
+CBS,-52,"From the sky-high heels to the jaw-dropping wings, these outfits are fashion goals! See all the best looks from the… https://t.co/GnyZ8NnBYH",Wed Nov 29 08:22:35 +0000 2017,0.6696,0.183,0.817,0.0
+CBS,-53,Missed the world’s most celebrated fashion show? Catch up on your own time and watch the entire 2017 Victoria's Sec… https://t.co/9OuYvHItzh,Wed Nov 29 07:56:05 +0000 2017,0.4201,0.158,0.754,0.087
+CBS,-54,"RT @VictoriasSecret: That’s a wrap on the 2017 #VSFashionShow!! BIG thanks to the Angels, the people of Shanghai &amp; YOU for watching! https:…",Wed Nov 29 06:41:12 +0000 2017,0.5826,0.152,0.848,0.0
+CBS,-55,Want to relive all of your favorite #VSFashionShow runway moments?  @GIPHY has you covered. https://t.co/mgfziAQR4c,Wed Nov 29 04:13:05 +0000 2017,0.5106,0.249,0.751,0.0
+CBS,-56,"RT @vannalovescats: Another successful show. I’m so proud of all of the beautiful ladies, they all did amazing. The musical guests were FAN…",Wed Nov 29 04:02:16 +0000 2017,0.9476,0.449,0.551,0.0
+CBS,-57,55 Models. 88 Looks. 1 FABULOUS Night. #VSFashionShow https://t.co/TmYqRjDRE5,Wed Nov 29 04:00:58 +0000 2017,0.6289,0.371,0.629,0.0
+CBS,-58,Two. Million. Dollar. Bra. ?  #VSFashionShow https://t.co/4dp7RbMHlp,Wed Nov 29 03:57:07 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-59,RT @exclvdes: HARRY SINGING ANGEL FOR THE ANGELS HAS ME CRYING #VSFashionShow,Wed Nov 29 03:56:08 +0000 2017,-0.5904,0.0,0.742,0.258
+CBS,-60,RT @victoriaa_POW: how does one become a vs angel overnight......asking for a friend #vsfashionshow,Wed Nov 29 03:53:09 +0000 2017,0.4939,0.225,0.775,0.0
+CBS,-61,RT @MzShortNSweet_: Guys it's almost done... I can not??????? #VSFashionShow,Wed Nov 29 03:52:28 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-62,Absolute goddess. #VSFashionShow https://t.co/cSCwwFltQW,Wed Nov 29 03:47:11 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-63,FIERCE. #VSFashionShow https://t.co/VNlXH4Z3kJ,Wed Nov 29 03:45:32 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-64,RT @__lowens: Is it just me or are the models this year EXTRA beautiful? #Diversity #VSFashionShow,Wed Nov 29 03:42:10 +0000 2017,0.5994,0.206,0.794,0.0
+CBS,-65,RT @Ceci20GS: Can’t believe this is @AngelAlessandra last walk ?#VSFashionShow,Wed Nov 29 03:39:21 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-66,RT @JustHedyJ: All these ladies are so beautiful I love them all. #VSFashionShow,Wed Nov 29 03:36:37 +0000 2017,0.8878,0.486,0.514,0.0
+CBS,-67,? #VSFashionShow https://t.co/Vs9sktkL8c,Wed Nov 29 03:34:35 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-68,"It's not about how we fall, it's about how we get up. #VSFashionShow https://t.co/NCe08O8OjU",Wed Nov 29 03:26:10 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-69,Runway ready! #VSFashionShow https://t.co/tUeJ2A6xRx,Wed Nov 29 03:22:53 +0000 2017,0.4199,0.482,0.518,0.0
+CBS,-70,RT @VictoriasSecret: That VOICE ?! @leslieodomjr making us actually excited for ?. #VSFashionShow https://t.co/peaKzrveKi,Wed Nov 29 03:22:27 +0000 2017,0.4003,0.172,0.828,0.0
+CBS,-71,RT @SaraSampaio: It’s show time! Tune in now on cbs #vsfashionshow https://t.co/u75WfqCJr7,Wed Nov 29 03:20:56 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-72,These Angels can do anything. ? #VSFashionShow https://t.co/7vz0zSz6Yc,Wed Nov 29 03:18:45 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-73,"RT @airfly111: IT'S MY FAVORITE NIGHT OF THE YEAR! #VSFashionShow
+???",Wed Nov 29 03:16:50 +0000 2017,0.6155,0.287,0.713,0.0
+CBS,-74,Porcelain perfection. ?  #VSFashionShow https://t.co/XQe14ycc1j,Wed Nov 29 03:11:29 +0000 2017,0.5719,0.552,0.448,0.0
+CBS,-75,RT @EbtheCeleb: Saaaaannnngg Miguel #VSFashionShow,Wed Nov 29 03:10:51 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-76,When you know you SLAYED your walk. #VSFashionShow https://t.co/ZXVwioihIP,Wed Nov 29 03:07:06 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-77,.@Harry_Styles is killing it on stage right now. #VSFashionShow https://t.co/TtJHP1ZPOM,Wed Nov 29 03:04:59 +0000 2017,-0.6597,0.0,0.672,0.328
+CBS,-78,"Grab your bestie, it’s time for the #VSFashionShow! https://t.co/0lqrCDrsBA",Wed Nov 29 02:56:00 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-79,This is what Tuesday night dreams are made of. Stay in with the #VSFashionShow tonight at 10/9c on CBS! Use code LE… https://t.co/Gzp3guuj8A,Wed Nov 29 02:53:04 +0000 2017,0.4574,0.12,0.88,0.0
+CBS,-80,The #VSFashionShow Angels have arrived on the PINK Carpet! See them here: https://t.co/rWLPkoL3A1 https://t.co/CNCskef9xu,Wed Nov 29 02:24:15 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-81,Get in the holiday spirit tonight with a classic special! Watch Rudolph the Red-Nosed Reindeer at 8/7c on CBS.… https://t.co/TbTrPebanb,Wed Nov 29 00:43:55 +0000 2017,0.75,0.316,0.684,0.0
+CBS,-82,"Join the Angels in Shanghai at the 2017 #VSFashionShow tonight @ 10/9c on CBS, or stream it live on CBS All Access:… https://t.co/UZ6omchwEt",Tue Nov 28 23:38:24 +0000 2017,0.296,0.095,0.905,0.0
+CBS,-83,"Tomorrow night, Bruno Mars will take you on a joyride with Bruno Mars: 24K Live at the Apollo at 10/9c on CBS and C… https://t.co/XjmvRDmshi",Tue Nov 28 23:02:06 +0000 2017,0.2732,0.084,0.916,0.0
+CBS,-84,"Over 250,000 crystals adorn Angel Elsa Hosk's stunning look! Don't miss the #VSFashionShow tonight @ 10/9c on CBS:… https://t.co/I7Cj01F1XO",Tue Nov 28 21:33:30 +0000 2017,0.6412,0.294,0.706,0.0
+CBS,-85,"RT @CBSThisMorning: WATCH: @BrunoMars sits down with @GayleKing ahead of Wednesday’s #24KMagic Live special at @ApolloTheater on @CBS!  
+
+F…",Tue Nov 28 20:36:19 +0000 2017,0.4574,0.143,0.857,0.0
+CBS,-86,It's almost showtime! Head backstage with the Angels &amp; performers @Miguel and @LeslieOdomJr as they prepare for the… https://t.co/G7tzZiUG6Z,Tue Nov 28 19:35:16 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-87,"She's an Angel! Tonight, @Harry_Styles hits the runway at the #VSFashionShow @ 10/9c on CBS &amp; CBS All Access:… https://t.co/PowmtV0e9V",Tue Nov 28 17:00:03 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-88,"Craving more fashion?
+
+Go behind the scenes LIVE on Facebook at 6:15ET before tonight’s #VSFashionShow with @etnow’… https://t.co/YkZSxzXsVo",Tue Nov 28 15:31:01 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-89,Spread your wings &amp; fly to Shanghai tonight! Here's how to watch the #VSFashionShow @ 10/9c on CBS &amp; CBS All Access… https://t.co/pixsXXIN1w,Tue Nov 28 15:00:05 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-90,"Congrats to Jay-Z, @KendrickLamar, @BrunoMars, @Lorde, @LadyGaga and all the 2018 #GRAMMYs nominees! See the comple… https://t.co/KLX6VHIfX7",Tue Nov 28 14:25:21 +0000 2017,0.5707,0.187,0.813,0.0
+CBS,-91,Go backstage with the Angels as they get ready to walk the runway! Watch the #VSFashionShow tomorrow at 10/9c on CB… https://t.co/o98pKc51Zq,Tue Nov 28 01:37:07 +0000 2017,0.4199,0.117,0.883,0.0
+CBS,-92,Bruno Mars is taking over New York City this Wed with Bruno Mars: 24K Magic Live at the Apollo! Tune in @ 10/9c on… https://t.co/A871bmdHiU,Tue Nov 28 00:09:46 +0000 2017,0.0,0.0,1.0,0.0
+CBS,-93,"Tomorrow, don't miss the sexiest night on television when the #VSFashionShow airs @ 10/9c on CBS, or stream it with… https://t.co/O00i3BItsG",Mon Nov 27 22:03:36 +0000 2017,0.1139,0.071,0.929,0.0
+CBS,-94,Make all your streams come true with a 1-month FREE trial of #CBSAllAccess. Use promo code LETSGO by 12/4:… https://t.co/G9trBBmefn,Mon Nov 27 20:02:27 +0000 2017,0.7804,0.287,0.713,0.0
+CBS,-95,"Singer-songwriter @JoshGroban will headline the #Home4Holidays adoption special along with @kelly_clarkson,… https://t.co/EgzxIsLhjv",Mon Nov 27 18:32:06 +0000 2017,0.4019,0.197,0.803,0.0
+CBS,-96,"Tomorrow, don't miss @Harry_Styles perform alongside the Angels at the #VSFashionShow! Tune in at 10/9c on CBS &amp; CB… https://t.co/a0fxt0rqUf",Mon Nov 27 12:01:03 +0000 2017,0.1867,0.084,0.916,0.0
+CBS,-97,Due to #NFL football overrun #CBS is delayed in east &amp; central time zones. New start times #60minutes 7:46ET/6:46CT… https://t.co/tA6gF7rkGX,Mon Nov 27 00:53:16 +0000 2017,-0.2263,0.0,0.909,0.091
+CBS,-98,"RT @RecordingAcad: Two days left 'til #GRAMMYs nominations! ? Are you excited? 
+
+RT if you're counting down with us! ? https://t.co/11tdE0k…",Mon Nov 27 00:16:34 +0000 2017,0.4559,0.142,0.858,0.0
+CBS,-99,"Spread some holiday cheer with the heartwarming Christmas classic, The Story of Santa Claus! Watch the full special… https://t.co/3TQ6qjpzK6",Mon Nov 27 00:15:41 +0000 2017,0.8553,0.37,0.63,0.0
+CNN,0,"The Foreign Service will survive with or without Secretary of State Rex Tillerson, John Kirby writes for… https://t.co/Gzi8QQILjQ",Sun Dec 03 02:15:02 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-1,Hundreds of migrants stranded in Libya are returned to Nigeria https://t.co/HSYijBDAQV https://t.co/2c4JpVur6H,Sun Dec 03 02:00:17 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-2,Critics react to President Trump's tweet on firing Michael Flynn https://t.co/3NhuOrRFLF https://t.co/MfEHcYYBXo,Sun Dec 03 01:45:05 +0000 2017,-0.5574,0.0,0.685,0.315
+CNN,-3,Donald Trump's family denied its German heritage for years https://t.co/S2y0erGYwA https://t.co/iICmoEScZQ,Sun Dec 03 01:30:18 +0000 2017,-0.4404,0.0,0.775,0.225
+CNN,-4,Elon Musk plans to send his Tesla Roadster to Mars on a giant rocket https://t.co/BjKhRKh4t3 https://t.co/VBFZxhIRCH,Sun Dec 03 01:15:08 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-5,Could brands save millions and help preserve the environment just by slightly changing their logos to use less ink?… https://t.co/ADC0mcdoTZ,Sun Dec 03 01:00:15 +0000 2017,0.7096,0.247,0.753,0.0
+CNN,-6,"National security adviser HR McMaster says that the potential for war with North Korea is ""increasing every day""… https://t.co/xaiFCiyJov",Sun Dec 03 00:58:24 +0000 2017,-0.3612,0.103,0.73,0.167
+CNN,-7,Mikaela Shiffrin scores her first downhill podium in Lake Louise https://t.co/Uw9ZQkEwKq https://t.co/pWduQio66Q,Sun Dec 03 00:45:04 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-8,"RT @cnnbrk: Authorities believe they have found the body of Mariah Woods, a 3-year-old North Carolina girl missing since Sunday, the FBI sa…",Sun Dec 03 00:34:42 +0000 2017,-0.296,0.0,0.905,0.095
+CNN,-9,The first time these mothers see their sons' bodies up close after officer-involved shootings isn't in a hospital o… https://t.co/Epa3YboHdU,Sun Dec 03 00:30:21 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-10,"Flynn may be the bait, but he's no coffee boy, Laura Coates writes for @CNNOpinion https://t.co/iCW450kseI https://t.co/JgQzv8A678",Sun Dec 03 00:15:11 +0000 2017,-0.4215,0.0,0.851,0.149
+CNN,-11,President Trump will hold a campaign-style rally near Alabama days before the state's special election for US Senat… https://t.co/yhz435QHTy,Sun Dec 03 00:00:15 +0000 2017,0.4019,0.137,0.863,0.0
+CNN,-12,"Vermont senior tested ricin recipe on retirement community, feds say https://t.co/EpUB9blW09 https://t.co/ikTVyXUHrU",Sat Dec 02 23:45:06 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-13,RT @CNNMoney: ABC News announced Saturday that it has suspended investigative reporter Brian Ross for four weeks without pay after Ross was…,Sat Dec 02 23:35:02 +0000 2017,-0.4222,0.053,0.82,0.127
+CNN,-14,"Muslim father accused in custody battle of radicalizing son, court documents say https://t.co/5zMSMQipul https://t.co/AVDYuAegbz",Sat Dec 02 23:30:11 +0000 2017,-0.5859,0.0,0.714,0.286
+CNN,-15,Glitch forces iPhones to reboot over and over https://t.co/54KKMOup23 https://t.co/1qMWdPVCYM,Sat Dec 02 23:15:04 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-16,"Tom Hanks talks Trump, Hollywood &amp; history with CNN’s David Axelrod. The Axe Files with David Axelrod airs Saturday… https://t.co/VeScTikjCk",Sat Dec 02 23:00:16 +0000 2017,-0.1027,0.0,0.931,0.069
+CNN,-17,Voyager 1 spacecraft thrusters fired up for first time since 1980 https://t.co/o1sczzzMmU https://t.co/ZnzkKAVSVP,Sat Dec 02 22:45:06 +0000 2017,-0.5574,0.0,0.753,0.247
+CNN,-18,How all but one Republican senator found a way to pass tax reform https://t.co/SMQWjO1xrk https://t.co/WO4xymJq7v,Sat Dec 02 22:30:06 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-19,FBI agent removed from special counsel Robert Mueller's investigation over anti-Trump messages… https://t.co/7wAYCs0IeW,Sat Dec 02 22:15:07 +0000 2017,0.4019,0.184,0.816,0.0
+CNN,-20,US official says North Korea's new intercontinental ballistic missile likely broke up upon re-entry… https://t.co/tu4dwWDlcf,Sat Dec 02 22:00:05 +0000 2017,-0.4215,0.0,0.833,0.167
+CNN,-21,Democratic campaign arm calls on congressman to resign following harassment allegation https://t.co/7nBfnQeoop https://t.co/xALSYCZvqF,Sat Dec 02 21:45:05 +0000 2017,-0.7096,0.0,0.651,0.349
+CNN,-22,Mom's boyfriend arrested as authorities say missing 3-year-old assumed dead https://t.co/NlfceoPn0I https://t.co/8pTDH4wf6B,Sat Dec 02 21:30:14 +0000 2017,-0.8625,0.0,0.484,0.516
+CNN,-23,Turkey targets assets of US witness who says Turkish President Recep Tayyip Erdogan is corrupt… https://t.co/iN10Hipdk2,Sat Dec 02 21:15:16 +0000 2017,0.1779,0.102,0.898,0.0
+CNN,-24,Golf writer Michael Corcoran says then-citizen Donald Trump made a 'p-word' comment in 2000 https://t.co/9piT65pziY https://t.co/hR3WkX4oFr,Sat Dec 02 21:00:10 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-25,Top defense attorney Mark O'Mara says it's 'horribly improper' for politicians to attack the criminal justice syste… https://t.co/XWmYR50i2X,Sat Dec 02 20:45:51 +0000 2017,-0.6369,0.234,0.42,0.346
+CNN,-26,"RT @CNNnewsroom: Ex-Ethics Dir. Walter Shaub reacts to Trump's latest tweet: ""The President has just damaged his credibility significantly,…",Sat Dec 02 20:30:38 +0000 2017,-0.4404,0.0,0.861,0.139
+CNN,-27,Former Stanford University swimmer convicted of sexual assault asks for new trial https://t.co/GnF6laqQbU https://t.co/IHWiiEjmvY,Sat Dec 02 20:15:04 +0000 2017,-0.5859,0.0,0.774,0.226
+CNN,-28,Tom Hanks tells CNN's David Axelrod that President Trump's attacks on the press are concerning. The Axe Files with… https://t.co/JYZXNkCBEw,Sat Dec 02 20:00:55 +0000 2017,-0.5106,0.0,0.807,0.193
+CNN,-29,Longtime Michigan congressman announces retirement https://t.co/pykQkbTkfL https://t.co/Uri5suh0wW,Sat Dec 02 19:45:12 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-30,Police have taken down a man who opened fire at a California hospital https://t.co/nxqamcZRvs https://t.co/8K1Hiuj5CV,Sat Dec 02 19:30:05 +0000 2017,-0.34,0.0,0.833,0.167
+CNN,-31,State Deptment told to plan for potential protests after Jerusalem embassy announcement https://t.co/qUbIiI6mVZ https://t.co/oFwF0aXhRU,Sat Dec 02 19:15:10 +0000 2017,-0.2263,0.0,0.872,0.128
+CNN,-32,Sam Bird wins chaotic Formula E season opener in Hong Kong https://t.co/W9v21mTO1I https://t.co/RwwOYeoylY,Sat Dec 02 19:00:13 +0000 2017,0.128,0.219,0.592,0.189
+CNN,-33,Two Russian lawmakers dismiss Michael Flynn's guilty plea https://t.co/x1hZJ2yt53 https://t.co/NFKqWYFH7n,Sat Dec 02 18:45:09 +0000 2017,-0.4215,0.0,0.763,0.237
+CNN,-34,"With latest plea deal, Special Counsel Robert Mueller's investigation is closing in on President Trump… https://t.co/KpHFc8hXfe",Sat Dec 02 18:30:02 +0000 2017,0.4019,0.153,0.847,0.0
+CNN,-35,This is how senators voted on the tax bill https://t.co/OixXyYsj2h https://t.co/zI3R6qmjjc,Sat Dec 02 18:15:03 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-36,North Korea's Foreign Ministry says President Trump is 'begging for nuclear war' https://t.co/Hona6lE9QZ https://t.co/Sf31LRzB4x,Sat Dec 02 18:00:04 +0000 2017,-0.5994,0.0,0.769,0.231
+CNN,-37,Republicans just bet the entire 2018 election on an unpopular tax plan | Analysis by Chris Cillizza… https://t.co/ek3cu1JEAW,Sat Dec 02 17:45:05 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-38,Canada could make billions from legal pot https://t.co/aMizY9t0FC https://t.co/S1BlrQDxl6,Sat Dec 02 17:30:04 +0000 2017,0.128,0.158,0.842,0.0
+CNN,-39,Poll: Democrat Doug Jones closes gap with Republican Roy Moore in race for Alabama Senate seat… https://t.co/VWmS50Si2J,Sat Dec 02 17:15:06 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-40,CNN’s David Axelrod sits down with Academy Award-winning actor Tom Hanks. The Axe Files with David Axelrod airs Sat… https://t.co/MnzDtDM3qC,Sat Dec 02 17:00:06 +0000 2017,-0.1027,0.0,0.931,0.069
+CNN,-41,US senators gear up for fight over Dodd-Frank rollback https://t.co/MFk3iYSgam,Sat Dec 02 16:45:07 +0000 2017,-0.3818,0.0,0.776,0.224
+CNN,-42,President Trump on Michael Flynn deal: 'There has been absolutely no collusion' https://t.co/FUx4Cf0vCF https://t.co/pIIlu7lNeA,Sat Dec 02 16:30:13 +0000 2017,-0.3597,0.0,0.839,0.161
+CNN,-43,"Florida teen found safe in New York with 27-year-old soccer coach, sheriff says https://t.co/Rhp75OeEAu https://t.co/FrVnENyrcP",Sat Dec 02 16:15:05 +0000 2017,0.4404,0.172,0.828,0.0
+CNN,-44,"After a fatal police shooting, this mom is haunted by shocking incisions all over her son's body #BeneathTheSkin… https://t.co/KqNBJvffuK",Sat Dec 02 16:00:22 +0000 2017,-0.8519,0.0,0.617,0.383
+CNN,-45,Stakeholders line up on both sides of the religious liberty case in the US Supreme Court https://t.co/BDbzDhcOjM https://t.co/KErgcIqKgX,Sat Dec 02 15:45:09 +0000 2017,0.7906,0.304,0.696,0.0
+CNN,-46,Why Calfornia is wincing over Trump-backed health plan associations https://t.co/8EYi4mVpSD https://t.co/94GliD75N4,Sat Dec 02 15:27:52 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-47,The world's biggest lithium ion battery has started delivering power in Australia. It uses wind and can power as ma… https://t.co/B0TlpqgQvg,Sat Dec 02 15:00:30 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-48,"RT @CNNPolitics: President Trump praises the passage of the Senate tax bill and looks ahead to conference committee: ""Something beautiful i…",Sat Dec 02 14:55:33 +0000 2017,0.8074,0.278,0.722,0.0
+CNN,-49,The first time these mothers see their sons' bodies up close after officer-involved shootings isn't in a hospital o… https://t.co/iZyjU9nOhM,Sat Dec 02 14:45:04 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-50,"Economist Arthur Laffer: The CBO is ""wrong,"" the Senate tax bill ""will spur economic growth"" and will not add $1.4… https://t.co/mujQyHl6CF",Sat Dec 02 14:38:05 +0000 2017,0.3818,0.115,0.885,0.0
+CNN,-51,"This is one of thousands of giant sinkholes in Greenland, where water is draining through the ice sheet into the oc… https://t.co/b1eVkIol9S",Sat Dec 02 14:30:51 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-52,"Former federal prosecutor John Brownlee: Michael Flynn's credibility as a witness ""has been significantly damaged b… https://t.co/JjnEQpJivK",Sat Dec 02 14:10:16 +0000 2017,-0.4404,0.0,0.838,0.162
+CNN,-53,"Former 49ers quarterback Colin Kaepernick has been named the recipient of Sports Illustrated's legacy award, which… https://t.co/JpgasveNTw",Sat Dec 02 14:00:18 +0000 2017,0.5423,0.179,0.821,0.0
+CNN,-54,Shocking postmortem incisions on her son's body after he was fatally shot by police led this Chicago mom to ask CNN… https://t.co/vWxNddGLg5,Sat Dec 02 13:40:08 +0000 2017,-0.7845,0.0,0.743,0.257
+CNN,-55,CNN journalists have risked their lives in the most dangerous places around the world so you know the truth… https://t.co/R3F9YGHl5J,Sat Dec 02 13:29:03 +0000 2017,-0.6478,0.0,0.773,0.227
+CNN,-56,"Matt Lauer ""will not be paid past his last day of work,"" a senior NBC source says https://t.co/E0VcSNSUHS https://t.co/0LUMeTndUJ",Sat Dec 02 13:00:22 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-57,"""Fat Leonard,"" the biggest corruption scandal in US Navy history, has tarnished the career of another admiral… https://t.co/oL4bLB8gYS",Sat Dec 02 12:30:21 +0000 2017,-0.4404,0.0,0.854,0.146
+CNN,-58,Join hosts @andersoncooper &amp; @KellyRipa in just a few weeks to honor all this year's Top 10 #CNNHeroes! Vote now at… https://t.co/WLhv3nvbW7,Sat Dec 02 12:00:37 +0000 2017,0.7574,0.294,0.706,0.0
+CNN,-59,Meltwater from Greenland is the biggest source of sea level rise in the world -- double that of Antarctica. See how… https://t.co/sUxboTGGS4,Sat Dec 02 11:30:36 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-60,"In Greenland, evidence of climate change is written in ice and stone https://t.co/rm0MjDsh2z https://t.co/zhs2wuObi3",Sat Dec 02 11:01:08 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-61,This is how the tax bill would affect your household finances https://t.co/uzCyZCPSdF https://t.co/3bq0EzDh37,Sat Dec 02 10:30:21 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-62,A Kremlin-linked troll is once again demonstrating how difficult it is for Twitter to police its own platform… https://t.co/6KrUAw3he9,Sat Dec 02 10:00:21 +0000 2017,-0.3612,0.0,0.872,0.128
+CNN,-63,"The United Nations urges Libya to take ""urgent action"" over human slavery https://t.co/knx2rdt8SW https://t.co/aNoibaIeTq",Sat Dec 02 09:30:15 +0000 2017,-0.296,0.225,0.539,0.235
+CNN,-64,"You won't find studies in humans that prove chicken soup can fight a cold, but there's enough evidence to make it w… https://t.co/liCtPng8mA",Sat Dec 02 09:00:27 +0000 2017,-0.2023,0.0,0.921,0.079
+CNN,-65,"Meet the 11-year-old who created a cheap device to test drinking water for lead, and won a $25,000 science prize… https://t.co/Tfzvuyk9J4",Sat Dec 02 08:29:07 +0000 2017,0.6908,0.251,0.749,0.0
+CNN,-66,The one and only visible supermoon of 2017 will be observable to the entire world on December 3. Here's how to see… https://t.co/1uxaRBVGaP,Sat Dec 02 08:00:15 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-67,"The guy who took down President Trump's Twitter account says it was ""a mistake"" and that he actually admires Trump'… https://t.co/Wz9f2qUdGg",Sat Dec 02 07:30:06 +0000 2017,0.0258,0.105,0.795,0.1
+CNN,-68,Senate passes its GOP tax reform bill with 51 votes after a day full of lawmakers making changes to bring enough me… https://t.co/IChv44Xy0d,Sat Dec 02 07:09:54 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-69,This video shows a man's final moments before he was fatally shot outside his home in Nashville. His son released t… https://t.co/w0q8PL0fOU,Sat Dec 02 07:02:24 +0000 2017,-0.6369,0.0,0.826,0.174
+CNN,-70,President Trump has questioned the authenticity of the infamous “Access Hollywood” tape in which he bragged about b… https://t.co/noBeChbfF0,Sat Dec 02 06:30:14 +0000 2017,-0.1027,0.0,0.928,0.072
+CNN,-71,"Former Secretary of State Madeleine Albright believes the US is facing a ""national security emergency"" because of t… https://t.co/euFlPDWFDp",Sat Dec 02 06:00:18 +0000 2017,-0.0516,0.114,0.762,0.124
+CNN,-72,Arby's is buying Buffalo Wild Wings for $2.9 billion https://t.co/ZRKFZ5YX0m https://t.co/NEluzZOZGB,Sat Dec 02 05:30:06 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-73,Votes on amendments are underway with Senate Republicans set to pass a massive tax overhaul. The bill includes hand… https://t.co/nFBbwMuFTa,Sat Dec 02 05:20:17 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-74,Meltwater from Greenland is the biggest source of sea level rise in the world -- double that of Antarctica. See how… https://t.co/vMStdSVXkR,Sat Dec 02 05:02:41 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-75,"Jared Kushner is the very senior Trump team member who told Michael Flynn to contact the Russian ambassador, source… https://t.co/csarkGg1s3",Sat Dec 02 04:30:07 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-76,A man's tattoo left doctors debating whether to save his life https://t.co/8UnIwsGEBg https://t.co/LgYelybHGA,Sat Dec 02 04:00:07 +0000 2017,0.4939,0.225,0.775,0.0
+CNN,-77,Geraldo Rivera apologizes to Bette Midler after she accused him earlier this week of drugging and groping her in th… https://t.co/JJ9zkY57Gk,Sat Dec 02 03:30:22 +0000 2017,0.0772,0.105,0.802,0.093
+CNN,-78,Police officer adopts homeless mother's opioid-addicted newborn https://t.co/zaXJeLox7b https://t.co/5GQPG1gZ0i,Sat Dec 02 03:00:18 +0000 2017,0.1779,0.175,0.825,0.0
+CNN,-79,Former President Obama met with the Dalai Lama in India on Friday https://t.co/qnMKlOyoIk https://t.co/QRFzCQQY4n,Sat Dec 02 02:50:05 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-80,A McDonald's manager who gave police a loaded gun that led to the arrest of a suspect in a series of killings in Ta… https://t.co/NUWbKkOrCw,Sat Dec 02 02:40:06 +0000 2017,-0.8885,0.0,0.596,0.404
+CNN,-81,"62 years ago, Rosa Parks stood up for civil rights by sitting down https://t.co/yDNl5AdgTd https://t.co/hmBrwwa8PJ",Sat Dec 02 02:30:06 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-82,The brutal race conversation nobody wants to have https://t.co/L5imhpeKVw https://t.co/f8WmR6OphU,Sat Dec 02 02:20:01 +0000 2017,-0.6249,0.0,0.687,0.313
+CNN,-83,"Signet Jewelers, which owns Kay Jewelers, Zales and Jared The Galleria Of Jewelry, is being investigated by federal… https://t.co/UenFiTbpmZ",Sat Dec 02 02:10:04 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-84,Russia investigation zeroes in on Trump inner circle | Analysis by @StCollinson https://t.co/9yLjhHp5gI https://t.co/HpLIMhdCuV,Sat Dec 02 02:00:27 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-85,Flynn charge suggests arcane law is 'leverage' for special counsel investigation https://t.co/hirXKHOyyv https://t.co/nNr3Fgj61b,Sat Dec 02 01:50:04 +0000 2017,0.4019,0.184,0.816,0.0
+CNN,-86,Twitter has a new reason for why it didn't delete Trump's anti-Muslim retweets https://t.co/nTaj9LS5Cf https://t.co/lUdCAjSUPy,Sat Dec 02 01:40:03 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-87,"Jared Kushner is the very senior Trump team member who told Michael Flynn to contact the Russian ambassador, source… https://t.co/u8KUAZtwPF",Sat Dec 02 01:30:07 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-88,"RT @OutFrontCNN: ""Please don't say it's not that big a deal. He is now an admitted felon."" Rep. Denny Heck reacts to Michael Flynn's guilty…",Sat Dec 02 01:22:50 +0000 2017,0.4019,0.144,0.856,0.0
+CNN,-89,Breaking down Michael Flynn's lies about his Russia calls https://t.co/7sqTwPyoFf https://t.co/yhA3E7DxMQ,Sat Dec 02 01:20:10 +0000 2017,-0.4215,0.0,0.781,0.219
+CNN,-90,"""I think that Russia investigation is wearing on all of us, the President most of all,"" said a source close to Pres… https://t.co/LaAI7GvkdA",Sat Dec 02 01:10:11 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-91,"American Airlines says there will be enough pilots available to cover all of its December flights, despite a schedu… https://t.co/bhZF44Nb1D",Sat Dec 02 01:00:02 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-92,"Senate Republicans may vote to strengthen Obamacare short-term to win over lawmakers, even as it weakens the health… https://t.co/ZW5IsoCA2e",Sat Dec 02 00:50:04 +0000 2017,0.5859,0.25,0.656,0.094
+CNN,-93,The Senate is about to vote on a tax bill it's still writing | Analysis by @zbyronwolf https://t.co/UxxdePpBNv https://t.co/Xwz1IhCrmj,Sat Dec 02 00:40:09 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-94,"As TV networks grapple with the sexual misconduct allegations lodged against their big stars, a major lingering que… https://t.co/CzkglP7PrD",Sat Dec 02 00:30:15 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-95,"President Trump is expected to announce that the US recognizes Jerusalem as Israel's capital, US officials with dir… https://t.co/BsHdUCql7d",Sat Dec 02 00:20:09 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-96,"Michael Flynn: From ""lock her up"" to (maybe) locked up | Analysis by @GregJKrieg https://t.co/tRZkAaTyup https://t.co/dAt2r8pq8l",Sat Dec 02 00:10:04 +0000 2017,0.0,0.0,1.0,0.0
+CNN,-97,"RT @CNNSitRoom: .@evanperez explains why Michael Flynn's plea agreement was ""an incredible deal"" https://t.co/4Hx0XH4D5t  https://t.co/Adgw…",Sat Dec 02 00:03:53 +0000 2017,0.4939,0.186,0.814,0.0
+CNN,-98,Join hosts @andersoncooper &amp; @KellyRipa in just a few weeks to honor all this year's Top 10 #CNNHeroes! Vote now at… https://t.co/RUGXYixw0G,Sat Dec 02 00:02:03 +0000 2017,0.7574,0.294,0.706,0.0
+CNN,-99,"GOP Rep. Blake Farenthold settled a sexual harassment complaint brought by an aide with taxpayer money in 2014, acc… https://t.co/PyjrxXwdr5",Fri Dec 01 23:50:05 +0000 2017,-0.6908,0.0,0.749,0.251
+Fox,0,".@newtgingrich: Congratulations Senate Republicans on tax bill -- Now, on to the Conference https://t.co/AC6QxjEBzL",Sun Dec 03 02:17:47 +0000 2017,0.5994,0.231,0.769,0.0
+Fox,-1,"WATCH: @jessebwatters' full interview with a school chairman who called President Donald Trump a ""bona fide"" idiot.… https://t.co/iZE156ONDI",Sun Dec 03 02:02:26 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-2,"School chairman Ryan Sawyers on calling Trump a ""bona fide idiot"": ""I think it's an honest thing to say... it's my… https://t.co/Xf8QtBUFlC",Sun Dec 03 01:53:30 +0000 2017,0.5106,0.142,0.858,0.0
+Fox,-3,".@TomiLahren on addressing sexual harassment: ""The best way to fight it is through the First Amendment. It's being… https://t.co/CWwloc6LzV",Sun Dec 03 01:40:33 +0000 2017,-0.2263,0.16,0.608,0.232
+Fox,-4,".@IngrahamAngle on Kate Steinle verdict: ""[@realDonaldTrump] ran on protecting Americans and legal immigrants from… https://t.co/OUEHD7AbJt",Sun Dec 03 01:23:15 +0000 2017,0.2732,0.193,0.807,0.0
+Fox,-5,".@jessebwatters: ""A country without laws and borders is not a country. But the Left is okay with that because open… https://t.co/ngJc6w7MwF",Sun Dec 03 01:20:46 +0000 2017,0.2263,0.091,0.909,0.0
+Fox,-6,#BoycottSanFrancisco takes off after Steinle case acquittal https://t.co/BXlSqLdf3s,Sun Dec 03 01:10:52 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-7,.@dbongino: GOP 'Damn Well Better' Finish Tax Reform 'Or This Party's Toast' https://t.co/KhEyWngNBV,Sun Dec 03 00:57:02 +0000 2017,0.3182,0.282,0.565,0.153
+Fox,-8,"Mother's boyfriend arrested, charged in case of deceased North Carolina toddler, .@BryanLlenas reports.… https://t.co/lmIsVXqd7D",Sun Dec 03 00:51:30 +0000 2017,-0.5994,0.0,0.71,0.29
+Fox,-9,"Melissa Quinn on Robert Mueller's investigation: ""If @POTUS did go ahead and move to fire Mueller in the wake of th… https://t.co/ZEikwadPdc",Sun Dec 03 00:42:58 +0000 2017,-0.34,0.0,0.897,0.103
+Fox,-10,"Melissa Quinn on Michael Flynn: ""The one thing this charge against Flynn does show us is that it's going to be even… https://t.co/0zOJM44I0w",Sun Dec 03 00:39:42 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-11,"Melissa Quinn on Michael Flynn: ""When you look at those who are closest to @POTUS both during the election and duri… https://t.co/yY4yClCiSn",Sun Dec 03 00:36:34 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-12,"Remains of missing 3-year-old North Carolina girl found, authorities say https://t.co/MqOAAZmWRo",Sun Dec 03 00:31:52 +0000 2017,-0.296,0.0,0.82,0.18
+Fox,-13,Trump's USDA Relaxes Obama-Era School Lunch Restrictions https://t.co/xmc5xGGqDe,Sun Dec 03 00:22:59 +0000 2017,0.3612,0.263,0.737,0.0
+Fox,-14,".@POTUS praises GOP lawmakers after Senate passes tax bill, @Garrett_FoxNews reports. https://t.co/AN9FXSKYFp https://t.co/maCWNWeGcj",Sun Dec 03 00:09:53 +0000 2017,0.5267,0.221,0.779,0.0
+Fox,-15,Mueller dismisses top FBI agent in Russia probe over possible anti-Trump texts https://t.co/n2lvGQheJ6,Sun Dec 03 00:04:49 +0000 2017,0.2023,0.13,0.87,0.0
+Fox,-16,"GOP Senate survived two surprise, nor'easter-like storms to ultimately pass major tax reform https://t.co/YfQtDIMsWO",Sun Dec 03 00:02:45 +0000 2017,0.6597,0.31,0.69,0.0
+Fox,-17,H.R. McMaster: Potential for war with North Korea increases ‘every day’ https://t.co/BjpanJuikP,Sat Dec 02 23:58:46 +0000 2017,-0.5994,0.0,0.738,0.262
+Fox,-18,"Dan Gillerman on Flynn guilty plea: ""I think instead of a plea bargain, Michael Flynn should actually get a medal.""… https://t.co/SMTiHC1RbY",Sat Dec 02 23:56:27 +0000 2017,-0.25,0.083,0.787,0.13
+Fox,-19,".@BretBaier: ""Can you explain how the CIA is ramping up operations against terrorism?"" 
+
+Mike Pompeo: ""We work to c… https://t.co/O7apHnWTa8",Sat Dec 02 23:47:12 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-20,"Hon. Leon Panetta on current world affairs: ""We're fighting a war on terrorism, we've got failed states in the Midd… https://t.co/l3TycLzkO0",Sat Dec 02 23:41:00 +0000 2017,-0.936,0.0,0.528,0.472
+Fox,-21,"Former CIA director Leon Panetta on current world affairs: ""I have never seen as many flash points in the world pro… https://t.co/NyvsWJKxEv",Sat Dec 02 23:39:42 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-22,"CIA director Mike Pompeo: ""We couldn't do much of what we do in the intelligence community without an enormous comm… https://t.co/StBsIUEd5e",Sat Dec 02 23:37:40 +0000 2017,0.4767,0.134,0.866,0.0
+Fox,-23,.@bob_welch: 'A Christmas Carol' offers important lessons on how we should all be living today https://t.co/wDcmdLtCxC,Sat Dec 02 23:30:07 +0000 2017,0.2023,0.107,0.893,0.0
+Fox,-24,"North Korean missile broke up on re-entry, US official says https://t.co/ZxwlIb3bAq",Sat Dec 02 23:22:59 +0000 2017,-0.4215,0.0,0.781,0.219
+Fox,-25,U.S. markets since election. https://t.co/zSY3KbkOcT,Sat Dec 02 23:04:04 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-26,BREAKING: ABC News suspends Brian Ross over 'serious error' in Trump/Flynn report https://t.co/04nnEX2PT4,Sat Dec 02 23:01:19 +0000 2017,-0.4588,0.0,0.733,0.267
+Fox,-27,"Florida teen who reportedly ran off with soccer coach found safe in New York, police say   https://t.co/EW42CGavy7",Sat Dec 02 22:59:17 +0000 2017,0.4404,0.153,0.847,0.0
+Fox,-28,"Remains of missing Army veteran, dog found in shallow grave https://t.co/46QCIvCjZo",Sat Dec 02 22:46:58 +0000 2017,-0.5859,0.0,0.652,0.348
+Fox,-29,"GOP Senate survived two surprise, nor'easter-like storms to ultimately pass major tax reform https://t.co/ge2X3Ivepy",Sat Dec 02 22:41:26 +0000 2017,0.6597,0.31,0.69,0.0
+Fox,-30,"Moments ago on Twitter, President @realDonaldTrump paid homage to Rosa Parks, who, 62 years ago this week, refused… https://t.co/cXkRs4ifOa",Sat Dec 02 22:31:16 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-31,President @realDonaldTrump is greeted with a salute upon arriving at @JFKairport in New York. https://t.co/BdBz52QILJ,Sat Dec 02 22:29:05 +0000 2017,0.2732,0.139,0.861,0.0
+Fox,-32,"On @ffweekend, @SheriffClarke gave his take on the @NFL's reported plan to donate nearly $100 million to ""social ju… https://t.co/oI9JPuj2Ft",Sat Dec 02 22:26:01 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-33,"Mueller dismisses top FBI agent in Russia probe over possible anti-Trump texts    
+https://t.co/n2lvGQheJ6",Sat Dec 02 22:17:26 +0000 2017,0.2023,0.13,0.87,0.0
+Fox,-34,.@NancyPelosi has called on Nevada Democratic @RepKihuen to resign following allegations of sexual harassment.… https://t.co/yX9t5HmlEC,Sat Dec 02 22:16:12 +0000 2017,-0.34,0.0,0.854,0.146
+Fox,-35,"On ""The Cost of Freedom,"" @RepDeSantis gave his take on allegations against the Trump campaign for colluding with R… https://t.co/u6T1g1DvQV",Sat Dec 02 22:12:02 +0000 2017,-0.296,0.0,0.896,0.104
+Fox,-36,"At the Reagan National Defense Forum, National Security Adviser H.R. McMaster shared his desire for unity.… https://t.co/vfJmeGgTdt",Sat Dec 02 22:08:05 +0000 2017,0.7906,0.409,0.591,0.0
+Fox,-37,"""The era of strategic patience is over.""
+
+WATCH: H.R. McMaster's full remarks at #RNDF - Part 2. https://t.co/MH2MGejbF7",Sat Dec 02 22:05:03 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-38,"H.R. McMaster: ""[Ronald Reagan] secured our nation, helped bring down the Berlin Wall, and ensured that freedom and… https://t.co/nVS6M4tIKk",Sat Dec 02 22:00:07 +0000 2017,0.7845,0.289,0.711,0.0
+Fox,-39,WATCH: @BretBaier's full interview with National Security Adviser H.R. McMaster at #RNDF - Part 3. https://t.co/E1b7eHQCLQ,Sat Dec 02 21:52:14 +0000 2017,0.34,0.146,0.854,0.0
+Fox,-40,WATCH: @BretBaier's full interview with National Security Adviser H.R. McMaster at #RNDF - Part 2. https://t.co/vMd3O42Tzx,Sat Dec 02 21:52:10 +0000 2017,0.34,0.146,0.854,0.0
+Fox,-41,WATCH: @BretBaier's full interview with National Security Adviser H.R. McMaster at #RNDF - Part 1. https://t.co/k84HSXYz1z,Sat Dec 02 21:52:05 +0000 2017,0.34,0.146,0.854,0.0
+Fox,-42,"On Twitter, @KamalaHarris slammed the tax reform bill that passed the Senate. https://t.co/yPerz691gx https://t.co/JaK8FOOn8m",Sat Dec 02 21:42:21 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-43,Moments ago: @POTUS arrives in Joint AFB Andrews. https://t.co/smQVv4e1Hu,Sat Dec 02 21:38:51 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-44,"H.R. McMaster: ""It would be great if every time we talk about what divides us, we also at least give equal time to… https://t.co/xHziSN27R1",Sat Dec 02 21:30:58 +0000 2017,0.6249,0.151,0.849,0.0
+Fox,-45,"H.R. McMaster: ""If we go to fight, it's not going to be a fair fight for any enemy who takes us on."" @BretBaier https://t.co/8cVWpUCVe9",Sat Dec 02 21:26:46 +0000 2017,-0.7506,0.077,0.633,0.29
+Fox,-46,".@BretBaier: ""Why do you think there is no bipartisan urgency to significantly increase defense spending?""
+
+H.R. Mc… https://t.co/aYiuDaOohh",Sat Dec 02 21:24:19 +0000 2017,0.1531,0.181,0.714,0.105
+Fox,-47,RT @EricShawnTV: I anchor @FoxNews starting at 5 pm ET: The case of #MichaelFlynn and #Israel. Fmr. Ambassador Dan Gillerman on the #UN vot…,Sat Dec 02 21:23:13 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-48,"H.R. McMaster: ""What the Iranians have done across the greater Middle East is fuel and accelerate these cycles of v… https://t.co/tVEsaqN84s",Sat Dec 02 21:22:17 +0000 2017,0.3612,0.111,0.889,0.0
+Fox,-49,".@BretBaier: ""Should Americans feel safe about going to the Winter Olympics in Seoul in February?""
+
+H.R. McMaster:… https://t.co/KUe6OVrMC1",Sat Dec 02 21:18:10 +0000 2017,0.4404,0.146,0.854,0.0
+Fox,-50,"H.R. McMaster: ""South Korea and Japan are improving their defense capabilities at breakneck speed."" @BretBaier https://t.co/n2LtssrqVO",Sat Dec 02 21:17:03 +0000 2017,0.5106,0.235,0.765,0.0
+Fox,-51,"H.R. McMaster: ""Kim Jong Un isn't particularly cordial to anyone."" @BretBaier https://t.co/pMlBZcYwag",Sat Dec 02 21:16:21 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-52,"H.R. McMaster: ""China recognizes that it does have tremendous coercive economic power over North Korea."" @BretBaier https://t.co/kWIHx69zXe",Sat Dec 02 21:14:59 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-53,".@BretBaier: ""Has the potential of war with North Korea increased with this latest launch?""
+
+H.R. McMaster: ""I thin… https://t.co/1vWClX5Zkh",Sat Dec 02 21:13:08 +0000 2017,-0.4215,0.091,0.739,0.17
+Fox,-54,"H.R. McMaster: ""Every time [Kim Jong Un] conducts a missile launch, a nuclear test, he gets better."" @BretBaier https://t.co/GkhNx0fP3V",Sat Dec 02 21:12:22 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-55,"H.R. McMaster: ""The greatest immediate threat to the United States and to the world is the threat posed by the rogu… https://t.co/iCnhAy4SxY",Sat Dec 02 21:10:55 +0000 2017,0.0516,0.22,0.566,0.214
+Fox,-56,WATCH NOW: @BretBaier talks to National Security Adviser H.R. McMaster at #RNDF LIVE on Fox News Channel! https://t.co/d1LeUTu4DM,Sat Dec 02 21:09:57 +0000 2017,0.4003,0.137,0.863,0.0
+Fox,-57,"H.R. McMaster: ""Confronting the security challenges of today will require us to reclaim our strategic confidence."" https://t.co/2F3sU9ow7S",Sat Dec 02 21:07:04 +0000 2017,0.2732,0.192,0.725,0.083
+Fox,-58,"Jamiel Shaw Sr.: ""My son was murdered... He was shot dead by an illegal alien on his third gun charge."" https://t.co/H9C4U7wuu6",Sat Dec 02 21:07:02 +0000 2017,-0.8834,0.0,0.636,0.364
+Fox,-59,"H.R. McMaster: ""The era of strategic patience is over."" https://t.co/CRTKMk0W8b",Sat Dec 02 21:04:50 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-60,"H.R. McMaster: ""We do not base national security decisions on rigid ideology but instead on our core national inter… https://t.co/iWLkz73Cyz",Sat Dec 02 21:04:13 +0000 2017,-0.1945,0.0,0.867,0.133
+Fox,-61,"H.R. McMaster: ""@POTUS will soon unveil the details of his new strategy, but I can tell you now that it will focus… https://t.co/dEEil06hYP",Sat Dec 02 21:01:41 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-62,"H.R. McMaster: ""The rogue regimes of Iran and North Korea are violating the sovereignty of their neighbors, pursuin… https://t.co/f6v7IGIgQF",Sat Dec 02 21:00:21 +0000 2017,-0.5423,0.0,0.837,0.163
+Fox,-63,"H.R. McMaster: ""Reagan assertively declared that it was Communism that would lie on the ash-heap of history, not de… https://t.co/CA97f6EpWo",Sat Dec 02 20:59:06 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-64,"H.R. McMaster: ""Our Founders believed that the greatest wisdom of our nation rests in the hearts and in the minds o… https://t.co/xTZsiHd4OR",Sat Dec 02 20:57:42 +0000 2017,0.8225,0.275,0.725,0.0
+Fox,-65,"H.R. McMaster: ""[Ronald Reagan] secured our nation, helped bring down the Berlin Wall, and ensured that freedom and… https://t.co/p73aw6mhHX",Sat Dec 02 20:55:59 +0000 2017,0.7845,0.289,0.711,0.0
+Fox,-66,Awaiting remarks from National Security Adviser H.R. McMaster at #RNDF. https://t.co/v9ex4nFBL1,Sat Dec 02 20:44:49 +0000 2017,0.34,0.194,0.806,0.0
+Fox,-67,"RT @FoxBusiness: DIUx's Raj Shah: ""If you look at all venture deals in the United States in 2015, 12% had an investor from China. That's up…",Sat Dec 02 20:44:09 +0000 2017,0.4215,0.101,0.899,0.0
+Fox,-68,"RT @FoxBusiness: .@AmbJohnBolton on China's access to U.S. tech: ""We are in an increasingly threatening international environment, that the…",Sat Dec 02 20:44:06 +0000 2017,-0.5267,0.0,0.841,0.159
+Fox,-69,Trump's USDA Relaxes Obama-Era School Lunch Restrictions    https://t.co/xmc5xGGqDe,Sat Dec 02 20:39:45 +0000 2017,0.3612,0.263,0.737,0.0
+Fox,-70,"TOMORROW on @NextRevFNC, @SteveHiltonx talks to @DarrellIssa - Tune in at 9p ET on Fox News Channel! https://t.co/vf9Eo9futN",Sat Dec 02 20:34:03 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-71,Trump laments Flynn's lies to FBI about Russia contacts: 'There was nothing to hide!' https://t.co/60j65Qqx2R,Sat Dec 02 20:32:02 +0000 2017,-0.68,0.0,0.699,0.301
+Fox,-72,"Earlier today, President @realDonaldTrump tweeted about firing General Mike Flynn, and claimed his former National… https://t.co/BBnGgFX0rn",Sat Dec 02 20:25:01 +0000 2017,-0.34,0.0,0.862,0.138
+Fox,-73,".@SecAFOfficial: ""We are low on readiness... We need to restore the readiness of the Force so we can win any fight.… https://t.co/EJA9nzBwV5",Sat Dec 02 20:23:06 +0000 2017,0.7322,0.291,0.635,0.074
+Fox,-74,TODAY at 4p ET - @BretBaier talks to National Security Adviser H.R. McMaster at @Reagan_Library - For full live cov… https://t.co/F2XG6AXGeW,Sat Dec 02 20:17:30 +0000 2017,0.34,0.118,0.882,0.0
+Fox,-75,"Trump takes victory lap after Senate passes tax bill, calls it 'largest tax decrease ... by far' https://t.co/uL6UIuFW5P",Sat Dec 02 20:15:15 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-76,"Today on ""The Cost of Freedom,"" Florida @AGPamBondi reflected on what will happen next with the illegal immigrant w… https://t.co/T8kuvjqBgv",Sat Dec 02 20:08:51 +0000 2017,-0.5574,0.0,0.841,0.159
+Fox,-77,"Earlier, President @realDonaldTrump tweeted about firing General Mike Flynn, and claimed his former National Securi… https://t.co/a8S40Y1XVx",Sat Dec 02 20:01:29 +0000 2017,-0.34,0.0,0.862,0.138
+Fox,-78,RT @FoxBusiness: L3 Technologies Michael Strianese when asked 'Does Wall St. factor the risk of the current and future critical workforce s…,Sat Dec 02 19:56:33 +0000 2017,-0.5267,0.0,0.82,0.18
+Fox,-79,Satellite photos show North Korea apparently prepping to reuse launch site https://t.co/5mHAk9SvWN,Sat Dec 02 19:53:14 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-80,"At a event with President @realDonaldTrump in New York City, @GOPChairwoman touted the @GOPs massive fundraising su… https://t.co/L6YO8ayVcj",Sat Dec 02 19:46:14 +0000 2017,-0.0516,0.0,0.93,0.07
+Fox,-81,"Trump's USDA Relaxes Obama-Era School Lunch Restrictions
+https://t.co/xmc5xGGqDe",Sat Dec 02 19:38:29 +0000 2017,0.3612,0.263,0.737,0.0
+Fox,-82,RT @FoxBusiness: .@jpmorgan Exec. Dir. Michael Leskinen explains how defense companies have been impacted by Donald Trump’s victory during…,Sat Dec 02 19:38:27 +0000 2017,0.128,0.077,0.923,0.0
+Fox,-83,".@jasonrileywsj: ""@SenSchumer, the leader of @TheDemocrats in the Senate, has not come out asking @SenFranken to re… https://t.co/ZifCcDPOMK",Sat Dec 02 19:36:54 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-84,".@dbongino: ""Clearly it was a sanctuary city policy that allowed [Jose Inez Garcia Zarate] to stay in the country a… https://t.co/GdfBNU2vkx",Sat Dec 02 19:36:02 +0000 2017,0.4019,0.124,0.876,0.0
+Fox,-85,".@KimStrassel: ""Democrats have been caught up in the very words that Ms. Pelosi used there: 'Zero tolerance.'""… https://t.co/9lv1VfHmen",Sat Dec 02 19:35:36 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-86,"RT @FoxBusiness: DIUx's Raj Shah: ""The nature of warfare is changing. It is being driven by technologies whose development is being led in…",Sat Dec 02 19:29:51 +0000 2017,-0.296,0.0,0.909,0.091
+Fox,-87,"Florida teen who reportedly ran off with soccer coach found safe in New York, police say https://t.co/avmHOEoHFV",Sat Dec 02 19:29:45 +0000 2017,0.4404,0.153,0.847,0.0
+Fox,-88,"RT @FoxBusiness: L3 Technologies Michael Strianese: ""The U.S. military has always had a substantial technology advantage. I think we have a…",Sat Dec 02 19:27:31 +0000 2017,0.4215,0.183,0.817,0.0
+Fox,-89,"RT @FoxBusiness: .@secnav76 Richard Spencer: ""If you look at the job of the Secretary of the Navy: Man, equip, train, and deliver. The Titl…",Sat Dec 02 19:27:28 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-90,"RT @FoxBusiness: .@jpmorgan Exec. Dir. Michael Leskinen: ""For me to want to allocate my shareholders money to companies that are investing,…",Sat Dec 02 19:27:25 +0000 2017,0.0772,0.061,0.939,0.0
+Fox,-91,Shock as Amazon delivery woman defecates on customer’s front yard while dropping off package https://t.co/OHCRXWB6Tn,Sat Dec 02 19:26:44 +0000 2017,-0.2263,0.098,0.751,0.15
+Fox,-92,".@jasonrileywsj: ""If you're the @WhiteHouse, this is not a good development."" #JournalEditorialReport https://t.co/MicOb0CfDm",Sat Dec 02 19:24:10 +0000 2017,-0.3412,0.0,0.821,0.179
+Fox,-93,"Democrat Sandy Levin retiring from House, won't seek 19th term in 2018 https://t.co/kAMeQbFplm",Sat Dec 02 19:20:20 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-94,"McMaster, Pompeo among speakers at 5th annual Reagan National Defense Forum https://t.co/KEFF6fnADG",Sat Dec 02 19:15:50 +0000 2017,0.128,0.12,0.88,0.0
+Fox,-95,Mueller dismisses top FBI agent in Russia probe over possible anti-Trump texts https://t.co/dq1YAyMQ05,Sat Dec 02 19:10:57 +0000 2017,0.2023,0.13,0.87,0.0
+Fox,-96,"On ""The @IngrahamAngle,"" @RepMattGaetz slammed the @FBI for allegedly giving @HillaryClinton special treatment.… https://t.co/6ALOJ0qSJr",Sat Dec 02 19:08:39 +0000 2017,0.6249,0.298,0.702,0.0
+Fox,-97,"Last night, @SenWarren reacted negatively to the tax reform bill, which passed the Senate late last night.… https://t.co/yLDMHCqzNM",Sat Dec 02 19:05:02 +0000 2017,0.0,0.0,1.0,0.0
+Fox,-98,".@RepMattGaetz: ""@HillaryClinton didn't deserve special treatment. She should've been treated like every American,… https://t.co/8yjvQBKo9F",Sat Dec 02 19:04:29 +0000 2017,0.0624,0.149,0.716,0.135
+Fox,-99,Hawaii Tests Cold-War Era Sirens After North Korean Missile Test   https://t.co/n6DQqgmuKy,Sat Dec 02 18:49:56 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,0,Reporter’s Notebook: Pope Defends His Myanmar Diplomacy: ‘I Did Not Negotiate With the Truth’ https://t.co/ks1iLKN5uH,Sun Dec 03 02:14:57 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-1,"President Trump tweeted that he fired Michael Flynn “because he lied to the vice president and the FBI"" https://t.co/1JLCVIJwOU",Sun Dec 03 02:00:09 +0000 2017,-0.7351,0.0,0.733,0.267
+New York Times,-2,"Senators received the nearly 500-page tax bill containing major changes hours before the vote, prompting anger from… https://t.co/eG17HzqD3S",Sun Dec 03 01:36:04 +0000 2017,-0.5719,0.0,0.821,0.179
+New York Times,-3,Met Opera to Investigate James Levine Over Sexual Abuse Accusation https://t.co/U9CL60tTn4,Sun Dec 03 01:30:02 +0000 2017,-0.7351,0.0,0.592,0.408
+New York Times,-4,"Tax Bill Offers Last-Minute Breaks for Developers, Banks and Oil Industry https://t.co/hWyDLgB9ah",Sun Dec 03 01:16:46 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-5,"Elon Musk has turned on the world's biggest battery, capable of powering 30,000 homes in South Australia https://t.co/WNf2UwTliJ",Sun Dec 03 01:09:58 +0000 2017,0.3818,0.133,0.867,0.0
+New York Times,-6,Opinion: The Starving Lands https://t.co/g2zzoVov88,Sun Dec 03 00:48:31 +0000 2017,-0.4215,0.0,0.588,0.412
+New York Times,-7,"Prince Harry designed the engagement ring which includes two diamonds from his mother, Princess Diana https://t.co/0jSPpAcS6u",Sun Dec 03 00:44:42 +0000 2017,0.4588,0.167,0.833,0.0
+New York Times,-8,Updated timeline: What we now know about Michael Flynn’s phone calls with Russia https://t.co/NZj8OIEFBe,Sun Dec 03 00:27:38 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-9,Many of the last-minute changes in the tax bill were meant to convince a handful of holdout GOP senators https://t.co/o36TxVg7ai,Sun Dec 03 00:00:11 +0000 2017,0.25,0.1,0.9,0.0
+New York Times,-10,"As Roy Moore denies claims of sexual misconduct, he has vilified Gloria Allred, the lawyer representing an accuser https://t.co/jQ4MiwVYvz",Sat Dec 02 23:46:02 +0000 2017,-0.4215,0.0,0.865,0.135
+New York Times,-11,"Sarah Ward and Jonathan Rupp married on a farm in Georgia. One of her horses, Bling Bling, was their ringbearer. https://t.co/VUfCVuAEFF",Sat Dec 02 23:36:09 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-12,"ABC News has suspended Brian Ross for 4 weeks over ""a serious error"" in a report about Trump and Michael Flynn https://t.co/5x1CwYwx5U",Sat Dec 02 23:26:05 +0000 2017,-0.7269,0.0,0.705,0.295
+New York Times,-13,"Before the draw for the 2018 World Cup, Russia's deputy prime minister fended off questions about doping https://t.co/cohnqCfoRr",Sat Dec 02 23:16:04 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-14,We scoured the internet for political writing from the right and left on reactions to Michael Flynn’s guilty plea https://t.co/4fGnleO05z,Sat Dec 02 23:06:06 +0000 2017,-0.4215,0.0,0.872,0.128
+New York Times,-15,RT @nytmike: Emails we obtained from inside the Trump transition team show just how much Trump’s aides were concerned about sanctions on De…,Sat Dec 02 22:56:03 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-16,The College Football Playoff picture is taking shape with 4 conference championship games. Live updates: https://t.co/bK1HGUieUH,Sat Dec 02 22:46:01 +0000 2017,0.4404,0.172,0.828,0.0
+New York Times,-17,"Despite differences, the House and Senate versions of the Republican tax bill share many core elements https://t.co/rtCJzLTjQl",Sat Dec 02 22:36:01 +0000 2017,0.296,0.121,0.879,0.0
+New York Times,-18,Our 25 most popular recipes of 2017 https://t.co/h4upEQNgMC https://t.co/RZoVYOCUIo,Sat Dec 02 22:26:05 +0000 2017,0.4754,0.279,0.721,0.0
+New York Times,-19,"Fed-up straphangers are embracing the East River Ferry, and real-estate developers are taking notice https://t.co/PhZMQc83S6",Sat Dec 02 22:16:02 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-20,"Even in a whirlwind presidency, it has been a dizzying span of hours for the Trump administration https://t.co/YRpHM57bPE",Sat Dec 02 22:06:06 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-21,Senator Bob Corker of Tennessee was the only Republican to vote no to the GOP tax bill. See how each senator voted. https://t.co/N5C1aa1XOP,Sat Dec 02 21:56:02 +0000 2017,-0.296,0.0,0.909,0.091
+New York Times,-22,"For the first time in the U.S., a woman who had a uterus transplant has given birth https://t.co/ayAsK0gv1S",Sat Dec 02 21:46:03 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-23,"Claims of sexual misconduct grip Spelman and Morehouse, 2 historically black schools linked by history and geography https://t.co/477zhci04t",Sat Dec 02 21:36:01 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-24,Here are excerpts from Michael Flynn's court documents and what they mean https://t.co/3l6nKp0jdx,Sat Dec 02 21:26:06 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-25,Emails from Trump officials dispute the White House's claim that Michael Flynn went rogue with his Russia contacts https://t.co/spUYfpdV2O,Sat Dec 02 21:15:09 +0000 2017,-0.4019,0.0,0.87,0.13
+New York Times,-26,Opinion: The racial biases associated with AI terrifies this mother of 2 young children https://t.co/ZqNyplyLqu,Sat Dec 02 20:59:06 +0000 2017,-0.5574,0.0,0.783,0.217
+New York Times,-27,The first test of Prince Harry and Meghan Markle's fairy-tale romance? A British citizenship exam. Could you ace it? https://t.co/KRkAfS1TN0,Sat Dec 02 20:41:04 +0000 2017,0.6072,0.18,0.82,0.0
+New York Times,-28,"A memo. An executive visit to ""NBC Nightly News."" NBC News does in-house damage control after firing Matt Lauer. https://t.co/9XY3tfam3H",Sat Dec 02 20:26:05 +0000 2017,-0.6808,0.0,0.752,0.248
+New York Times,-29,The Republican tax plan could mean leaving government leaner and the safety net skimpier for millions of Americans https://t.co/36UUE8zWFe,Sat Dec 02 20:11:04 +0000 2017,0.4215,0.135,0.865,0.0
+New York Times,-30,“Everybody’s bawling.” A girls basketball team run by a juvenile court ended its losing streak at 312 games. https://t.co/qW9oqSiwFS,Sat Dec 02 19:56:02 +0000 2017,-0.3818,0.0,0.86,0.14
+New York Times,-31,"President Trump tweeted that he fired Michael Flynn “because he lied to the vice president and the FBI"" https://t.co/SX6CRM1WmT",Sat Dec 02 19:41:03 +0000 2017,-0.7351,0.0,0.733,0.267
+New York Times,-32,RT @nytvideo: Is it ever O.K. to joke about rape? We asked female comedians how stand-up is changing in the post-Weinstein era. https://t.c…,Sat Dec 02 19:31:02 +0000 2017,-0.3182,0.151,0.687,0.162
+New York Times,-33,"Like other Washington traditions that Trump has disrupted, the White House holiday party was no exception https://t.co/zgbV5bwMUB",Sat Dec 02 19:21:03 +0000 2017,0.6908,0.342,0.563,0.095
+New York Times,-34,See how your senator voted on the GOP tax bill https://t.co/A9FtgXCn1b,Sat Dec 02 19:06:06 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-35,"RT @nytmike: A rare public statement on the record from the Special Counsel's office to the media: ""Immediately upon learning of the allega…",Sat Dec 02 18:56:04 +0000 2017,0.4019,0.114,0.886,0.0
+New York Times,-36,Opinion: Who might now be swept up in the investigation? The next obvious candidate is Jared Kushner. https://t.co/WIdbiyoXM6,Sat Dec 02 18:46:02 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-37,Most Britons find the British citizenship test almost impossible to pass. Will Meghan Markle ace it? https://t.co/5LkIy5gvey,Sat Dec 02 18:36:01 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-38,"According to the government of Myanmar, the Rohingya do not exist. How?
+ https://t.co/oSMMdu6Gys",Sat Dec 02 18:21:05 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-39,"The definitive French dishes that every modern cook should master https://t.co/WxvnqvGlT7
+
+@SamSifton, @nytfood edi… https://t.co/Cl6n0ZtCYY",Sat Dec 02 18:06:05 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-40,"In a big win for President Trump, the Senate passed its tax plan. It now must be reconciled with the House version. https://t.co/J4DsgU571z",Sat Dec 02 17:56:05 +0000 2017,0.5859,0.153,0.847,0.0
+New York Times,-41,"The agent, Peter Strzok, was reassigned this summer from Robert Mueller’s investigation to the FBI's human resources department",Sat Dec 02 17:46:01 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-42,This lentil soup will keep you warm all winter long https://t.co/P60FkbL2Gi,Sat Dec 02 17:36:07 +0000 2017,0.2263,0.16,0.84,0.0
+New York Times,-43,Trump's team hopes that the tax plan may resonate more powerfully with the public than the news of Michael Flynn https://t.co/Dzzv2C5Yl4,Sat Dec 02 17:21:03 +0000 2017,0.4215,0.123,0.877,0.0
+New York Times,-44,"Step onto the Great Wall of China, one of the new Seven Wonders of the World, in 360° video https://t.co/TeONS93k8A",Sat Dec 02 17:07:36 +0000 2017,0.6249,0.177,0.823,0.0
+New York Times,-45,The FBI agent was cut from the Russia inquiry over possible anti-Trump political views expressed in text messages https://t.co/F3X2GmgDiF,Sat Dec 02 16:51:10 +0000 2017,-0.2732,0.0,0.896,0.104
+New York Times,-46,Breaking News: An FBI agent was removed after questions about whether he expressed anti-Trump political views https://t.co/2pV8jcLaXY,Sat Dec 02 16:48:14 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-47,"""I want you to take a look at this, folks. This is your government at work,"" said Senator Jon Tester, Democrat of M… https://t.co/vpCb0tR9VV",Sat Dec 02 16:41:04 +0000 2017,0.0772,0.056,0.944,0.0
+New York Times,-48,Opinion: She wanted to get sterilized. Her doctor refused. https://t.co/fEorL3z3S9,Sat Dec 02 16:26:06 +0000 2017,-0.296,0.0,0.804,0.196
+New York Times,-49,Members of Mexico’s landmark anti-corruption drive say the government has thwarted them from making serious headway https://t.co/wtf7r9BJOr,Sat Dec 02 16:11:06 +0000 2017,-0.0258,0.073,0.791,0.136
+New York Times,-50,Novelist Emma Cline had a banner 2016. But a lawsuit by a former boyfriend has overshadowed that success. https://t.co/7lWZNtz43U,Sat Dec 02 15:56:02 +0000 2017,0.4215,0.189,0.714,0.097
+New York Times,-51,How Ireland Moved to the Left: ‘The Demise of the Church’ https://t.co/7aweHoRh5T,Sat Dec 02 15:48:27 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-52,"With the passage of a Senate tax plan, Republicans are close to a big victory. But will it help them politically? https://t.co/KInO87k6Xq",Sat Dec 02 15:41:02 +0000 2017,0.4019,0.124,0.876,0.0
+New York Times,-53,"The U.S. Senate passed the most sweeping tax rewrite in decades. The new Republican tax plan affects families, smal… https://t.co/6Jrs41sVbz",Sat Dec 02 15:26:01 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-54,"Who gains from the U.S. Republican tax plan? Two economists, one from each side of the debate, make their cases. https://t.co/SX0F84ETVN",Sat Dec 02 15:12:04 +0000 2017,0.34,0.107,0.893,0.0
+New York Times,-55,"Some colleges have more students from the top 1% than the bottom 60. Find yours. https://t.co/coxMm43wI6 
+
+This was… https://t.co/yeeDxmUf9B",Sat Dec 02 15:02:01 +0000 2017,0.2023,0.091,0.909,0.0
+New York Times,-56,Updated timeline: What we now know about Michael Flynn’s phone calls with Russia https://t.co/u5HLzR0SAh,Sat Dec 02 14:41:01 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-57,"""Everyone else in the family has my husband’s last name and brown eyes. Even a toddler could tell I was an outsider… https://t.co/EIvAVlMheY",Sat Dec 02 14:21:01 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-58,"Jay-Z in an interview with executive editor Dean Baquet: ""The strongest thing a man can do is cry.""… https://t.co/EsAyn24IEf",Sat Dec 02 14:01:08 +0000 2017,0.4404,0.146,0.854,0.0
+New York Times,-59,"RT @nytopinion: The Senate tax bill is expected to add more than $1.4 trillion to the federal deficit, a debt that will be paid by the poor…",Sat Dec 02 13:41:05 +0000 2017,-0.6369,0.0,0.822,0.178
+New York Times,-60,Opinion: 10 key takeaways from Michael Flynn’s guilty plea https://t.co/8pQvqNJx3L,Sat Dec 02 13:21:02 +0000 2017,-0.4215,0.0,0.763,0.237
+New York Times,-61,Here's how each senator voted on the Republican tax bill https://t.co/zDHX5KEsOI,Sat Dec 02 13:02:06 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-62,The 10 best books of 2017 https://t.co/949YQcMnnm,Sat Dec 02 12:41:02 +0000 2017,0.6369,0.412,0.588,0.0
+New York Times,-63,These documents raise new questions about what then President-elect Trump knew about Michael Flynn’s conversations https://t.co/R3E14fyzuK,Sat Dec 02 12:21:04 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-64,"RT @nytpolitics: The Senate passed the most sweeping tax overhaul in decades, a big win for President Trump. It now must be reconciled with…",Sat Dec 02 12:02:07 +0000 2017,0.5859,0.147,0.853,0.0
+New York Times,-65,Scallops see their world with hundreds of eyes — and each one is amazing https://t.co/B9g4g1vimR,Sat Dec 02 11:39:48 +0000 2017,0.5859,0.226,0.774,0.0
+New York Times,-66,A reporter returns to Ohio to discuss the challenges of teaching climate change https://t.co/RmvKHmr2JT,Sat Dec 02 11:20:31 +0000 2017,0.0772,0.098,0.902,0.0
+New York Times,-67,"Experience the new Seven Wonders of the World, in 360° video https://t.co/FwHMgXhOER",Sat Dec 02 11:00:42 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-68,The Getaway: Sending Out an SOS: The Rise of Travel Security Apps https://t.co/YRLNLWH6S0,Sat Dec 02 10:42:53 +0000 2017,0.34,0.167,0.833,0.0
+New York Times,-69,Wine School: Your Next Lesson: Amontillado https://t.co/5q5Tb9fAzh,Sat Dec 02 10:39:48 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-70,"RT @AKannapell: What We’re Reading: great work by @ProPublica @CBCRadioCanada @scrawford @connpost and more, via @AnnaDubenko @jessemckinle…",Sat Dec 02 10:38:05 +0000 2017,0.6249,0.204,0.796,0.0
+New York Times,-71,Bali Volcano Evacuees Sneak Back into Danger Zone https://t.co/bGIULl4VNU,Sat Dec 02 10:36:37 +0000 2017,-0.5267,0.0,0.702,0.298
+New York Times,-72,"RT @nytopinion: The votes for the bill by Susan Collins, John McCain and Jeff Flake were particularly disheartening. https://t.co/bzu0P5CQzu",Sat Dec 02 10:19:21 +0000 2017,-0.4754,0.0,0.853,0.147
+New York Times,-73,Ban on Teflon Chemical Tied to Fewer Low-Weight Babies https://t.co/tSrBmmRLVa,Sat Dec 02 10:02:13 +0000 2017,-0.5574,0.0,0.714,0.286
+New York Times,-74,Honduras Declares Curfew as Protests Over Vote Count Continue https://t.co/1MnX9ejPWd,Sat Dec 02 09:48:42 +0000 2017,-0.2263,0.0,0.826,0.174
+New York Times,-75,How 41 people in Lithuania took over your Facebook feed https://t.co/PhMNyYOq6p,Sat Dec 02 09:30:39 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-76,"Two Englishmen took a shared love of boat life and books, and turned it into London's quirkiest bookstore https://t.co/MGmQvmnQM6",Sat Dec 02 09:11:02 +0000 2017,0.765,0.292,0.708,0.0
+New York Times,-77,A war criminal’s apparent suicide in court leaves a tribunal with one last mystery: How did he do it? https://t.co/r13etdD1td,Sat Dec 02 08:44:20 +0000 2017,-0.8555,0.0,0.656,0.344
+New York Times,-78,Here are excerpts from Michael Flynn's court documents and what they mean https://t.co/S6lzBaX8CZ,Sat Dec 02 08:24:32 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-79,"Mexico’s Government Is Blocking Its Own Anti-Corruption Drive, Commissioners Say https://t.co/TgIqGltUOJ",Sat Dec 02 08:05:54 +0000 2017,-0.3818,0.0,0.794,0.206
+New York Times,-80,Playlist: The Playlist: The Hold Steady Get Revved Up and 9 More New Songs https://t.co/119ZBQFLHL,Sat Dec 02 08:02:21 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-81,A bacterium that lives in the mouth is also hiding in cancer cells – and making scientists increasingly uneasy https://t.co/S8gZWqSYrI,Sat Dec 02 07:53:35 +0000 2017,-0.8481,0.0,0.62,0.38
+New York Times,-82,Why are the 50-year-olds of today more unhappy with their finances than 50-year-olds used to be? https://t.co/1KorbDuilu,Sat Dec 02 07:34:37 +0000 2017,-0.4754,0.0,0.838,0.162
+New York Times,-83,Here's how each senator voted on the Republican tax bill https://t.co/enDEsXz0CZ,Sat Dec 02 07:34:37 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-84,News Analysis: Republicans Near a Big Win — but Will It Lift Them Politically? https://t.co/sEcFp84lZT,Sat Dec 02 07:17:19 +0000 2017,0.34,0.167,0.833,0.0
+New York Times,-85,Editorial: A Historic Tax Heist https://t.co/ePbHzZjpOj,Sat Dec 02 07:00:22 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-86,"The Senate passed its tax overhaul, a major win for President Trump and also a longtime G.O.P. goal
+https://t.co/PRwdFuJFCq",Sat Dec 02 06:56:41 +0000 2017,0.5859,0.192,0.808,0.0
+New York Times,-87,"Seeking Russian Presidency, Socialite Hits the Campaign Trail https://t.co/FScWEOZQYC",Sat Dec 02 06:45:50 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-88,"People who can’t stand U2’s earnest, heal-the-world side may want to turn elsewhere right now https://t.co/6U5nX07V2z",Sat Dec 02 06:41:50 +0000 2017,0.5574,0.247,0.753,0.0
+New York Times,-89,"RT @nytpolitics: A Hasty, Hand-Scribbled Tax Bill Sets Off an Outcry https://t.co/OhAXKJ9QTL",Sat Dec 02 06:22:07 +0000 2017,-0.5106,0.0,0.752,0.248
+New York Times,-90,RT @thomaskaplan: The Senate is about to vote on an amendment to eliminate the ANWR provision from the tax bill. We'll be counting votes: h…,Sat Dec 02 06:06:03 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-91,Senate is voting on amendments after Republicans released a revised tax bill with significant changes. Latest updat… https://t.co/I1XmvKVLM8,Sat Dec 02 05:52:08 +0000 2017,0.2023,0.101,0.899,0.0
+New York Times,-92,"RT @NYTSports: The Yankees have chosen Aaron Boone, who hit one of the biggest homers in team history, to be their next manager.  He has no…",Sat Dec 02 05:34:03 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-93,"By midafternoon on Friday, Republicans had the votes to pass their tax bill in the Senate. What they did not have w… https://t.co/XKvoSiVLsf",Sat Dec 02 05:32:05 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-94,"RT @nytgraphics: LIVE: Senate passes amendment to allow 529 savings plans to be used for elementary and secondary schools, including privat…",Sat Dec 02 05:19:13 +0000 2017,0.2263,0.087,0.913,0.0
+New York Times,-95,RT @nytpolitics: Latest from the Senate: Vice President Mike Pence provided a tie-breaking vote to pass an amendment on the tax bill offere…,Sat Dec 02 05:14:09 +0000 2017,0.0,0.0,1.0,0.0
+New York Times,-96,James Comey quoted a Bible passage about justice on Twitter just after Michael Flynn pleaded guilty https://t.co/Ni9jnX8BJn,Sat Dec 02 05:02:06 +0000 2017,0.1531,0.168,0.693,0.139
+New York Times,-97,"A Hasty, Hand-Scribbled Tax Bill Sets Off an Outcry https://t.co/yxAKSolF4e",Sat Dec 02 04:48:43 +0000 2017,-0.5106,0.0,0.708,0.292
+New York Times,-98,"RT @NYTNational: As Roy Moore has sought to undermine his accusers in Alabama, he has focused on Gloria Allred as a foil. https://t.co/1nem…",Sat Dec 02 04:47:06 +0000 2017,0.1027,0.105,0.806,0.089
+New York Times,-99,"The best TV shows and movies new to Netflix, Amazon and more in December https://t.co/HMt6xCJVZr",Sat Dec 02 04:32:07 +0000 2017,0.7096,0.312,0.688,0.0
